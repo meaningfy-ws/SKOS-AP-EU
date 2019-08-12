@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"map.dtd">
+<map>
+  <title>SRC-AP-VB3: Application Profile for Assets maintained in
+  VocBench3</title>
+
+  <topicref href="src-ap-vb3-introduction.dita"/>
+
+  <topicref href="src-ap-vb3.dita"/>
+</map>
