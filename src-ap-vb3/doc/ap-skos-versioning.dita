@@ -2,7 +2,7 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
 "topic.dtd">
 <topic id="ap-skos-versioning">
-  <title>Versioning in SKOS assets</title>
+  <title>On concept evolution and versioning</title>
 
   <body>
     <p>SKOS is a common data model for sharing and linking knowledge
@@ -198,8 +198,28 @@
           scope="external">
 corporate-body:EURUN</xref> a skos:Concept ;
   skos:prefLabel "European Union".
-  euvoc:startDate "2009-12-01"; 
+  euvoc:startDate "2009-12-01".
 
-</codeblock><p/></section>
+</codeblock><p><b>Versioning by concept scheme</b> does not require any SKOS
+    extensions, at least not for concept descriptions. It is recommended
+    however to describe evolution of concept schemes using similar means as
+    above. In the listing below is provided an example how versioning by
+    concept scheme may be instantiated. </p><codeblock>nuts-scheme:2010 a skos:ConceptScheme;
+  skos:prefLabel "Nomenclature of territorial units for statistics";
+  owl:versionInfo "version 2010";
+  dct:isReplacedBy nuts-scheme:2013.
+
+nuts-scheme:2013 a skos:ConceptScheme;
+  skos:prefLabel "Nomenclature of territorial units for statistics";
+  owl:versionInfo "version 2013".
+
+nuts-code:UKK42 a skosConcept;
+  skos:prefLabel "Torbay";
+  skos:inScheme nuts-scheme2010;
+  skos:inScheme nuts-scheme2013.
+
+nuts-code:UKD37 a skosConcept;
+  skos:prefLabel "Greater Manchester North East";
+  skos:inScheme nuts-scheme2013.</codeblock></section>
   </body>
 </topic>
