@@ -6,8 +6,8 @@
 
   <body>
     <p>The following is a list of requirements for the controlled vocabularies
-    that are used in this application profile as controlled list of values.
-    </p>
+    that are used in this application profile as controlled list of
+    values.</p>
 
     <p>Controlled vocabularies should:</p>
 
@@ -24,9 +24,9 @@
       of the European Union.</li>
 
       <li>Have terms that are identified by dereferenceable<fn>Dereferencing
-      HTTP URIs (<xref format="html"
+      HTTP URIs. <xref format="html"
       href="https://www.w3.org/2001/tag/doc/httpRange-14/2007-05-31/HttpRange-14"
-      scope="external">https://www.w3.org/2001/tag/doc/httpRange-14/2007-05-31/HttpRange-14</xref>)</fn>
+      scope="external">https://www.w3.org/2001/tag/doc/httpRange-14/2007-05-31/HttpRange-14</xref></fn>
       URIs with each URI resolving to descriptions about the term.</li>
 
       <li>Have associated persistence and versioning policies.</li>

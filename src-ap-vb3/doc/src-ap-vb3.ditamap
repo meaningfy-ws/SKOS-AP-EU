@@ -33,6 +33,8 @@
   <keydef href="ap-controlled-vocabulary-requirements.dita#ap-controlled-vocabulary-requirements"
           keys="cv-req"/>
 
+  <keydef href="src-ap-vb3.dita" keys="src-ap-vb3"/>
+
   <topicref href="src-ap-vb3-introduction.dita#src-ap-vb3-introduction"/>
 
   <topicref href="src-ap-vb3-context.dita#src-ap-vb3-context"/>
@@ -46,7 +48,13 @@
   <topicref href="src-ap-vb3.dita" locktitle="yes"
             navtitle="SPC-AP-VB3 application profile specification"/>
 
+  <topicref href="ap-skos-versioning.dita"/>
+
   <topicref href="ap-controlled-vocabulary-requirements.dita#ap-controlled-vocabulary-requirements"/>
 
-  <topicref href="src-ap-vb3-controlled-vocabularies.dita#src-ap-vb3-controlled-vocabularies"/>
+  <topicref href="ap-conformance-statement.dita"/>
+
+  <topicref href="ap-multilingualism.dita"/>
+
+  <topicref href="ap-publishing-lod.dita"/>
 </map>

@@ -2,7 +2,7 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
 "topic.dtd">
 <topic id="src-ap-vb3-used-vocabularies">
-  <title>Vocabularies used in the application profile</title>
+  <title>External vocabularies (re-)used</title>
 
   <body>
     <p>This Application Profile reuses classes and properties from various
@@ -103,6 +103,53 @@
             <entry>xsd</entry>
 
             <entry>http://www.w3.org/2001/XMLSchema#</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+
+    <p>There is also a list of controlled vocabularies used to restrict the
+    value range on some properties. The values belong to the following
+    namespaces.</p>
+
+    <table>
+      <title>List of controlled vocabularies and their namespace
+      definitions</title>
+
+      <tgroup cols="3">
+        <thead>
+          <row>
+            <entry>Vocabulary name</entry>
+
+            <entry>Prefix</entry>
+
+            <entry>URI</entry>
+          </row>
+        </thead>
+
+        <tbody>
+          <row>
+            <entry>EuroVoc domains</entry>
+
+            <entry>domain</entry>
+
+            <entry>http://eurovoc.europa.eu/domain/</entry>
+          </row>
+
+          <row>
+            <entry>Notation type</entry>
+
+            <entry>notation</entry>
+
+            <entry>http://publications.europa.eu/resource/authority/notation-type</entry>
+          </row>
+
+          <row>
+            <entry>Label type</entry>
+
+            <entry>label</entry>
+
+            <entry>http://publications.europa.eu/resource/authority/label-type</entry>
           </row>
         </tbody>
       </tgroup>
