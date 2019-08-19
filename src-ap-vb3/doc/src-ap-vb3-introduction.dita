@@ -6,11 +6,11 @@
 
   <body>
     <p>This document defines the application profile of SKOS assets managed
-    using the VocBench3<fn> Stellato, A., Fiorelli, M., Turbati, A.,
-    Lorenzetti, T., Van Gemert, W.,Dechandon, D., Laaboudi-Spoiden, C.,
-    Gerencser, A., Waniart, A.,Costetchi, E., and Keizer, J. (forthcoming).
-    VocBench 3: a Collab-orative Semantic Web Editor for Ontologies, Thesauri
-    and Lexicons.Semantic Web journal. <xref format="html"
+    using VocBench3<fn> Stellato, A., Fiorelli, M., Turbati, A., Lorenzetti,
+    T., Van Gemert, W.,Dechandon, D., Laaboudi-Spoiden, C., Gerencser, A.,
+    Waniart, A.,Costetchi, E., and Keizer, J. (forthcoming). VocBench 3: a
+    Collab-orative Semantic Web Editor for Ontologies, Thesauri and
+    Lexicons.Semantic Web journal. <xref format="html"
     href="http://www.semantic-web-journal.net/content/vocbench-3-collaborative-semantic-web-editor-ontologies-thesauri-and-lexicons-1"
     scope="external">link</xref></fn>. <term>VocBench3</term> is a web-based,
     multilingual, collaborative development platform for managing OWL
@@ -60,10 +60,10 @@
     properties from other well-known vocabularies are re-used where
     necessary.</p>
 
-    <p>The work does not cover implementation issues like mechanisms for edit
-    or publish controlled vocabularies and expected behaviour of systems
-    implementing the Application Profile other than what is defined in the
-    Conformance Statement.</p>
+    <p>The work does not cover implementation issues like mechanisms to edit
+    or publish metadata assets and expected behaviour of systems implementing
+    the Application Profile other than what is defined in the Conformance
+    Statement.</p>
 
     <p>The Application Profile is intended to facilitate controlled
     vocabularies exchange and therefore the classes and properties defined in

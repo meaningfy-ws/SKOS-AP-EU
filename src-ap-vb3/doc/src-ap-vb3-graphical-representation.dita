@@ -6,13 +6,14 @@
 
   <body>
     <p>The graphical representation of the Application Profile is provided in
-    the form of an UML diagram. It is depicted in Figure ... The boxes
-    represent classes while the arrow connections represent properties
-    establishing relations to other classes. The attributes inside boxes
-    represent properties providing either literal data values or relation to
-    other classes that omitted from the diagram. Both, arrows and attributes,
-    are labelled with the property names prefixed with the namespace where
-    they are defined.</p>
+    the form of an UML diagram. It is depicted in <xref
+    href="#src-ap-vb3-graphical-representation/graphical-representation">figure
+    below</xref>. The boxes represent classes while the arrow connections
+    represent properties establishing relations to other classes. The
+    attributes inside boxes represent properties providing either literal data
+    values or relation to other classes that omitted from the diagram. Both,
+    arrows and attributes, are labelled with the property names prefixed with
+    the namespace where they are defined.</p>
 
     <p>The cardinality specifications on the connector (_ .. _) arrows and
     next to the attributes, marked in square brackets ( [ ] ) represent
@@ -37,7 +38,7 @@
     should meet <xref keyref="cv-req">a minimum set of
     requirements</xref>.</p>
 
-    <fig>
+    <fig id="graphical-representation">
       <title>UML class diagram of SRC-AP-VB3 application profile</title>
 
       <image align="center" href="src-ap-vb3.png" scalefit="yes"/>

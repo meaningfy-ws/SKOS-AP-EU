@@ -94,10 +94,6 @@
     there is not software support for maintaining such descriptions.
     </p><p>Without altering the conceptual structure of the SKOS model, there
     are three versioning strategies that are considered practical:</p><ul>
-        <li><term>No versioning</term> - keep the versioning issue outside the
-        content. Versions are maintained as separate editions of the evolving
-        dataset.</li>
-
         <li><term>Concept evolution</term> - the concept description comprises
         the entire or partial historical account. This means that the concept
         URI is maintained stable over time and the changes are incrementally
@@ -122,6 +118,10 @@
         a concept scheme. A concept belongs to as many concept schemes for as
         long it is current. The concept scheme provides validity interval or
         publication date.</li>
+
+        <li><term>No versioning</term> - keep the versioning issue outside the
+        content. Versions are maintained as separate editions of the evolving
+        dataset.</li>
       </ul></section>
 
     <section><title>Necessary extensions</title><p>In order to deal with
