@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
 "topic.dtd">
-<topic id="src-ap-vb3-graphical-representation">
+<topic id="ap-graphical-representation">
   <title>Graphical representation</title>
 
   <body>
     <p>The graphical representation of the Application Profile is provided in
-    the form of an UML diagram. It is depicted in <xref
-    href="#src-ap-vb3-graphical-representation/graphical-representation">figure
-    below</xref>. The boxes represent classes while the arrow connections
-    represent properties establishing relations to other classes. The
-    attributes inside boxes represent properties providing either literal data
-    values or relation to other classes that omitted from the diagram. Both,
-    arrows and attributes, are labelled with the property names prefixed with
-    the namespace where they are defined.</p>
+    the form of an UML class diagram<fn> Class diagram, <xref format="html"
+    href="https://en.wikipedia.org/wiki/Class_diagram"
+    scope="external">https://en.wikipedia.org/wiki/Class_diagram</xref></fn>
+    and is depicted in the figure below. The boxes represent classes while the
+    arrow connections represent properties establishing relations to other
+    classes. The attributes inside boxes represent properties providing either
+    literal data values or relation to other classes that omitted from the
+    diagram. Both, arrows and attributes, are labelled with the property names
+    prefixed with the namespace where they are defined.</p>
 
     <p>The cardinality specifications on the connector (_ .. _) arrows and
     next to the attributes, marked in square brackets ( [ ] ) represent
@@ -41,7 +42,7 @@
     <fig id="graphical-representation">
       <title>UML class diagram of SRC-AP-VB3 application profile</title>
 
-      <image align="center" href="src-ap-vb3.png" scalefit="yes"/>
+      <image align="center" keyref="uml-diagram" scalefit="yes"/>
     </fig>
   </body>
 </topic>

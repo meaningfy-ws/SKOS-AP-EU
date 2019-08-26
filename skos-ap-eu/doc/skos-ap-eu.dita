@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "technicalContent/dtd/reference.dtd">
-<reference id="EA_Model15x14x32x02x00">
+<reference id="EA_Model15x33x36x02x00">
 	<title>skos-ap-eu.xmi</title>
 	<refbody>
 		<section>
@@ -357,7 +357,9 @@
 							<entry colname="1">skos:notation</entry>
 							<entry colname="2">rdfs:Literal</entry>
 							<entry colname="3">0..*</entry>
-							<entry colname="4"/>
+							<entry colname="4">
+								<p>A notation is a string of characters such as "T58.5" or "303.4833" used to uniquely identify a concept within the scope of a given concept scheme or within a specified context.</p>
+							</entry>
 						</row>
 						<row rowsep="1">
 							<entry colname="1">skos:prefLabel</entry>
@@ -653,7 +655,7 @@ Narrower concepts are typically rendered as children in a concept hierarchy (tre
 							<entry colname="1">dct:hasPart</entry>
 							<entry colname="2">skos:ConceptScheme</entry>
 							<entry colname="3">0..*</entry>
-							<entry colname="4"/>
+							<entry colname="4">A related resource that is included either physically or logically in the described resource.</entry>
 						</row>
 						<row rowsep="1">
 							<entry colname="1">euvoc:domain</entry>
@@ -678,7 +680,7 @@ This property has a similar function as the dct:subject and dcat:theme. </entry>
 							<entry colname="1">dct:hasPart</entry>
 							<entry colname="2">skos:ConceptScheme</entry>
 							<entry colname="3">0..*</entry>
-							<entry colname="4"/>
+							<entry colname="4">A related resource that is included either physically or logically in the described resource.</entry>
 						</row>
 						<row rowsep="1">
 							<entry colname="1">dct:isPartOf</entry>
@@ -692,10 +694,8 @@ This property has a similar function as the dct:subject and dcat:theme. </entry>
 		</section>
 		<section>
 			<title>skosxl:Label</title>
-			<p>The class skosxl:Label is a special class of lexical entities.</p>
-			<p>An instance of the class skosxl:Label is a resource and may be named with a URI.</p>
-			<p>An instance of the class skosxl:Label has a single literal form. This literal form is an RDF plain literal (which is a string of UNICODE characters and an optional language tag [<xref scope="external" href="https://www.w3.org/TR/rdf-concepts/">RDF-CONCEPTS</xref>]). The property skosxl:literalForm is used to give the literal form of an skosxl:Label.</p>
-			<p>If two instances of the class skosxl:Label have the same literal form, they are not necessarily the same resource.</p>
+			<p>The class skosxl:Label is a special class of lexical entities. An instance of the class skosxl:Label is a resource and may be named with a URI.</p>
+			<p>An instance of the class skosxl:Label has a single literal form. This literal form is an RDF plain literal (which is a string of UNICODE characters and an optional language tag [<xref scope="external" href="https://www.w3.org/TR/rdf-concepts/"><foreign otherprops="#0000ff"><u>RDF-CONCEPTS</u></foreign></xref>]). The property skosxl:literalForm is used to give the literal form of an skosxl:Label. If two instances of the class skosxl:Label have the same literal form, they are not necessarily the same resource.</p>
 			<table frame="all" colsep="1" rowsep="1" scale="70">
 				<title>Properties</title>
 				<tgroup cols="4" colsep="1" rowsep="1" outputclass="FormatA">

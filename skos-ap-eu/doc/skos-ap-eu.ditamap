@@ -2,8 +2,8 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
 "map.dtd">
 <map>
-  <title>SRC-AP-VB3: an application profile for metadata assets maintained in
-  VocBench3</title>
+  <title>SKOS-AP-EU: an application profile for publishing SKOS-based metadata
+  assets</title>
 
   <topicmeta>
     <author>Eugeniu Costetchi</author>
@@ -28,28 +28,28 @@
   <keydef href="../../doc-common/ap-terminology.dita#ap-terminology"
           keys="terminology"/>
 
-  <keydef href="src-ap-vb3-used-vocabularies.dita#src-ap-vb3-used-vocabularies"
+  <keydef href="skos-ap-eu-used-vocabularies.dita#skos-ap-eu-used-vocabularies"
           keys="vocabulary"/>
 
   <keydef href="../../doc-common/ap-controlled-vocabulary-requirements.dita#ap-controlled-vocabulary-requirements"
           keys="cv-req"/>
 
-  <keydef href="src-ap-vb3.dita" keys="src-ap-vb3"/>
+  <keydef href="skos-ap-eu.dita#EA_Model15x33x36x02x00" keys="skos-ap-eu"/>
 
-  <keydef format="png" href="src-ap-vb3.png" keys="uml-diagram"/>
+  <keydef format="png" href="../skos-ap-eu.png" keys="uml-diagram"/>
 
-  <topicref href="src-ap-vb3-introduction.dita#src-ap-vb3-introduction"/>
-
-  <topicref href="src-ap-vb3-context.dita#src-ap-vb3-context"/>
+  <topicref href="skos-ap-eu-introduction.dita#src-ap-vb3-introduction"/>
 
   <topicref href="../../doc-common/ap-terminology.dita#ap-terminology"/>
 
-  <topicref href="src-ap-vb3-used-vocabularies.dita#src-ap-vb3-used-vocabularies"/>
+  <topicref href="skos-ap-eu-context.dita#skos-ap-eu-context"/>
+
+  <topicref href="skos-ap-eu-used-vocabularies.dita#skos-ap-eu-used-vocabularies"/>
 
   <topicref href="../../doc-common/ap-graphical-representation.dita#ap-graphical-representation"/>
 
-  <topicref href="src-ap-vb3.dita" locktitle="yes"
-            navtitle="SPC-AP-VB3 application profile specification"/>
+  <topicref href="skos-ap-eu.dita#EA_Model15x33x36x02x00" locktitle="yes"
+            navtitle="SKOS-AP-EU application profile specification"/>
 
   <topicref href="../../doc-common/ap-skos-versioning.dita#ap-skos-versioning"/>
 
