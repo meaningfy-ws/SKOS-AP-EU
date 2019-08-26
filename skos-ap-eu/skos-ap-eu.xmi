@@ -692,10 +692,10 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_8447_C5422E735731" source="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" target="EAID_062A3118_854F_40c1_A839_B387D85C164C" modelElement="EAID_018A89E7_570D_4f16_8447_C5422E735731">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_8447_C5422E735731" text="skos:inScheme">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_8447_C5422E735731" x="456" y="299" width="60" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_8447_C5422E735731" x="466" y="301" width="60" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_8447_C5422E735731" text="rdfProperty">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_8447_C5422E735731" x="426" y="318" width="102" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_8447_C5422E735731" x="445" y="318" width="102" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000001_86FB_45ca_8447_C5422E735731" text="mandatory"/>
 				<ownedElement xmi:type="umldi:UMLMultiplicityLabel" xmi:id="EAID_TML000000_86FB_45ca_8447_C5422E735731" text="1..*" modelElement="EAID_dst8A89E7_570D_4f16_8447_C5422E735731">
@@ -706,7 +706,7 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_A45E_065F7A30F626" source="EAID_062A3118_854F_40c1_A839_B387D85C164C" target="EAID_062A3118_854F_40c1_A839_B387D85C164C" modelElement="EAID_9AD84B1C_6283_42e5_A45E_065F7A30F626">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_A45E_065F7A30F626" text="dct:isPartOf">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_A45E_065F7A30F626" x="224" y="210" width="57" height="26"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_A45E_065F7A30F626" x="245" y="212" width="57" height="26"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_A45E_065F7A30F626" text="rdfProperty">
 					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_A45E_065F7A30F626" x="276" y="224" width="100" height="10"/>
@@ -723,33 +723,33 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_814C_40B86BAC1B66" source="EAID_6EE9AEEE_D7D2_48d4_8348_C7F75230486B" target="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" modelElement="EAID_37882A67_8264_434f_814C_40B86BAC1B66">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_814C_40B86BAC1B66" text="dct:type">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_814C_40B86BAC1B66" x="490" y="534" width="33" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_814C_40B86BAC1B66" x="495" y="536" width="33" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_814C_40B86BAC1B66" text="rdfProperty">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_814C_40B86BAC1B66" x="440" y="553" width="104" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_814C_40B86BAC1B66" x="459" y="553" width="104" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLMultiplicityLabel" xmi:id="EAID_TML000000_86FB_45ca_814C_40B86BAC1B66" text="0..1" modelElement="EAID_dst882A67_8264_434f_814C_40B86BAC1B66">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_814C_40B86BAC1B66" x="617" y="555" width="16" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_814C_40B86BAC1B66" x="621" y="555" width="16" height="13"/>
 				</ownedElement>
 				<waypoint xmi:type="dc:waypoint" xmi:id="EAID_WP000000_86FB_45ca_814C_40B86BAC1B66" x="383" y="550"/>
 				<waypoint xmi:type="dc:waypoint" xmi:id="EAID_WP000001_86FB_45ca_814C_40B86BAC1B66" x="640" y="550"/>
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_902F_75888F5FB07E" source="EAID_062A3118_854F_40c1_A839_B387D85C164C" target="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" modelElement="EAID_262E7292_C2E3_4e96_902F_75888F5FB07E">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_902F_75888F5FB07E" text="euvoc:domain">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_902F_75888F5FB07E" x="458" y="377" width="57" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_902F_75888F5FB07E" x="468" y="379" width="57" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_902F_75888F5FB07E" text="rdfProperty">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_902F_75888F5FB07E" x="431" y="396" width="94" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_902F_75888F5FB07E" x="449" y="396" width="94" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLMultiplicityLabel" xmi:id="EAID_TML000000_86FB_45ca_902F_75888F5FB07E" text="0..1" modelElement="EAID_dst2E7292_C2E3_4e96_902F_75888F5FB07E">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_902F_75888F5FB07E" x="617" y="398" width="16" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_902F_75888F5FB07E" x="621" y="398" width="16" height="13"/>
 				</ownedElement>
 				<waypoint xmi:type="dc:waypoint" xmi:id="EAID_WP000000_86FB_45ca_902F_75888F5FB07E" x="353" y="393"/>
 				<waypoint xmi:type="dc:waypoint" xmi:id="EAID_WP000001_86FB_45ca_902F_75888F5FB07E" x="640" y="393"/>
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_B0F4_3DC202822284" source="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" target="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" modelElement="EAID_DA5F4911_21FA_4617_B0F4_3DC202822284">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_B0F4_3DC202822284" text="skos:related">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_B0F4_3DC202822284" x="949" y="383" width="57" height="26"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_B0F4_3DC202822284" x="969" y="385" width="57" height="26"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_B0F4_3DC202822284" text="rdfProperty">
 					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_B0F4_3DC202822284" x="1048" y="388" width="100" height="10"/>
@@ -766,10 +766,10 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_9FF4_B9B263283018" source="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" target="EAID_6EE9AEEE_D7D2_48d4_8348_C7F75230486B" modelElement="EAID_C0593FB3_188D_410b_9FF4_B9B263283018">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_9FF4_B9B263283018" text="skosxl:prefLabel">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_9FF4_B9B263283018" x="467" y="662" width="64" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_9FF4_B9B263283018" x="479" y="664" width="64" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_9FF4_B9B263283018" text="rdfProperty">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_9FF4_B9B263283018" x="473" y="681" width="55" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_9FF4_B9B263283018" x="484" y="681" width="55" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLMultiplicityLabel" xmi:id="EAID_TML000000_86FB_45ca_9FF4_B9B263283018" text="1..*" modelElement="EAID_dst593FB3_188D_410b_9FF4_B9B263283018">
 					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_9FF4_B9B263283018" x="386" y="683" width="16" height="13"/>
@@ -779,10 +779,10 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_9B84_DD851534A1DF" source="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" target="EAID_062A3118_854F_40c1_A839_B387D85C164C" modelElement="EAID_AD62922A_5333_4565_9B84_DD851534A1DF">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_9B84_DD851534A1DF" text="skos:topConceptOf">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_9B84_DD851534A1DF" x="445" y="339" width="76" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_9B84_DD851534A1DF" x="458" y="341" width="76" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_9B84_DD851534A1DF" text="rdfProperty">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_9B84_DD851534A1DF" x="458" y="358" width="55" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_9B84_DD851534A1DF" x="469" y="358" width="55" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLMultiplicityLabel" xmi:id="EAID_TML000000_86FB_45ca_9B84_DD851534A1DF" text="0..*" modelElement="EAID_dst62922A_5333_4565_9B84_DD851534A1DF">
 					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_9B84_DD851534A1DF" x="356" y="360" width="16" height="13"/>
@@ -792,10 +792,10 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_A4A6_78E75FE13702" source="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" target="EAID_6EE9AEEE_D7D2_48d4_8348_C7F75230486B" modelElement="EAID_9F0B4A11_E0F6_4c57_A4A6_78E75FE13702">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_A4A6_78E75FE13702" text="skosxl:hiddenLabel">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_A4A6_78E75FE13702" x="459" y="620" width="75" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_A4A6_78E75FE13702" x="474" y="622" width="75" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_A4A6_78E75FE13702" text="rdfProperty">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_A4A6_78E75FE13702" x="473" y="639" width="55" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_A4A6_78E75FE13702" x="484" y="639" width="55" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLMultiplicityLabel" xmi:id="EAID_TML000000_86FB_45ca_A4A6_78E75FE13702" text="0..*" modelElement="EAID_dst0B4A11_E0F6_4c57_A4A6_78E75FE13702">
 					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_A4A6_78E75FE13702" x="386" y="641" width="16" height="13"/>
@@ -805,10 +805,10 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_BFB6_05BDE092E6BF" source="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" target="EAID_6EE9AEEE_D7D2_48d4_8348_C7F75230486B" modelElement="EAID_806C2017_9694_4bca_BFB6_05BDE092E6BF">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_BFB6_05BDE092E6BF" text="skosxl:altLabel">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_BFB6_05BDE092E6BF" x="477" y="577" width="58" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_BFB6_05BDE092E6BF" x="489" y="579" width="58" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_BFB6_05BDE092E6BF" text="rdfProperty">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_BFB6_05BDE092E6BF" x="480" y="599" width="55" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_BFB6_05BDE092E6BF" x="491" y="599" width="55" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLMultiplicityLabel" xmi:id="EAID_TML000000_86FB_45ca_BFB6_05BDE092E6BF" text="0..*" modelElement="EAID_dst6C2017_9694_4bca_BFB6_05BDE092E6BF">
 					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_BFB6_05BDE092E6BF" x="386" y="599" width="16" height="13"/>
@@ -818,7 +818,7 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_B759_E26036761C2A" source="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" target="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" modelElement="EAID_7BB6211B_FB0A_471b_B759_E26036761C2A">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_B759_E26036761C2A" text="skos:relatedMatch">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_B759_E26036761C2A" x="666" y="121" width="75" height="26"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_B759_E26036761C2A" x="691" y="123" width="75" height="26"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_B759_E26036761C2A" text="rdfProperty">
 					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_B759_E26036761C2A" x="733" y="134" width="100" height="10"/>
@@ -835,7 +835,7 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_B57E_552490497D22" source="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" target="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" modelElement="EAID_78B70CF7_2487_42c3_B57E_552490497D22">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_B57E_552490497D22" text="skos:closeMatch">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_B57E_552490497D22" x="673" y="81" width="67" height="26"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_B57E_552490497D22" x="697" y="83" width="67" height="26"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_B57E_552490497D22" text="rdfProperty">
 					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_B57E_552490497D22" x="733" y="94" width="100" height="10"/>
@@ -852,7 +852,7 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_B29D_24EBAB6EE328" source="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" target="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" modelElement="EAID_57B28FD9_FC91_4e82_B29D_24EBAB6EE328">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_B29D_24EBAB6EE328" text="skos:exactMatch">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_B29D_24EBAB6EE328" x="674" y="162" width="68" height="26"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_B29D_24EBAB6EE328" x="698" y="164" width="68" height="26"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_B29D_24EBAB6EE328" text="rdfProperty">
 					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_B29D_24EBAB6EE328" x="733" y="177" width="100" height="10"/>
@@ -869,7 +869,7 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_B252_6CCE49C7CCCD" source="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" target="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" modelElement="EAID_56F7E7FB_FCC5_4dfe_B252_6CCE49C7CCCD">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_B252_6CCE49C7CCCD" text="dct:isReplacedBy">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_B252_6CCE49C7CCCD" x="938" y="430" width="67" height="26"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_B252_6CCE49C7CCCD" x="962" y="432" width="67" height="26"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_B252_6CCE49C7CCCD" text="rdfProperty">
 					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_B252_6CCE49C7CCCD" x="1048" y="437" width="100" height="10"/>
@@ -886,7 +886,7 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_91A6_D52EE5F11EB5" source="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" target="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" modelElement="EAID_55158759_7F07_4cc0_91A6_D52EE5F11EB5">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_91A6_D52EE5F11EB5" text="skos:broader">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_91A6_D52EE5F11EB5" x="946" y="343" width="57" height="26"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_91A6_D52EE5F11EB5" x="968" y="345" width="57" height="26"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_91A6_D52EE5F11EB5" text="rdfProperty">
 					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_91A6_D52EE5F11EB5" x="1047" y="347" width="100" height="10"/>
@@ -903,33 +903,33 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_A9CE_36709ACD7404" source="EAID_062A3118_854F_40c1_A839_B387D85C164C" target="EAID_6EE9AEEE_D7D2_48d4_8348_C7F75230486B" modelElement="EAID_EB07D2F4_E3F2_45c5_A9CE_36709ACD7404">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_A9CE_36709ACD7404" text="skosxl:prefLabel">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_A9CE_36709ACD7404" x="200" y="452" width="64" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_A9CE_36709ACD7404" x="212" y="454" width="64" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_A9CE_36709ACD7404" text="rdfProperty">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_A9CE_36709ACD7404" x="206" y="465" width="55" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_A9CE_36709ACD7404" x="217" y="465" width="55" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLMultiplicityLabel" xmi:id="EAID_TML000000_86FB_45ca_A9CE_36709ACD7404" text="1..*" modelElement="EAID_dst07D2F4_E3F2_45c5_A9CE_36709ACD7404">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_A9CE_36709ACD7404" x="252" y="487" width="16" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_A9CE_36709ACD7404" x="252" y="489" width="16" height="13"/>
 				</ownedElement>
 				<waypoint xmi:type="dc:waypoint" xmi:id="EAID_WP000000_86FB_45ca_A9CE_36709ACD7404" x="244" y="430"/>
 				<waypoint xmi:type="dc:waypoint" xmi:id="EAID_WP000001_86FB_45ca_A9CE_36709ACD7404" x="244" y="507"/>
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_8603_8FFA086950AE" source="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" target="EAID_5B6B3938_6C03_49bb_8219_81CA6C9B7151" modelElement="EAID_DB00FCEB_8444_4f51_8603_8FFA086950AE">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_8603_8FFA086950AE" text="euvoc:xlChangeNote">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_8603_8FFA086950AE" x="922" y="636" width="82" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_8603_8FFA086950AE" x="936" y="638" width="82" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_8603_8FFA086950AE" text="rdfProperty">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_8603_8FFA086950AE" x="938" y="655" width="55" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_8603_8FFA086950AE" x="949" y="655" width="55" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLMultiplicityLabel" xmi:id="EAID_TML000000_86FB_45ca_8603_8FFA086950AE" text="0..*" modelElement="EAID_dst00FCEB_8444_4f51_8603_8FFA086950AE">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_8603_8FFA086950AE" x="1105" y="657" width="16" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_8603_8FFA086950AE" x="1108" y="657" width="16" height="13"/>
 				</ownedElement>
 				<waypoint xmi:type="dc:waypoint" xmi:id="EAID_WP000000_86FB_45ca_8603_8FFA086950AE" x="827" y="652"/>
 				<waypoint xmi:type="dc:waypoint" xmi:id="EAID_WP000001_86FB_45ca_8603_8FFA086950AE" x="1127" y="652"/>
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_B21C_F5D5C4F293B9" source="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" target="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" modelElement="EAID_D0BCE709_9CDE_463a_B21C_F5D5C4F293B9">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_B21C_F5D5C4F293B9" text="dct:replaces">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_B21C_F5D5C4F293B9" x="951" y="472" width="57" height="26"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_B21C_F5D5C4F293B9" x="972" y="474" width="57" height="26"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_B21C_F5D5C4F293B9" text="rdfProperty">
 					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_B21C_F5D5C4F293B9" x="1048" y="478" width="100" height="10"/>
@@ -946,7 +946,7 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_8439_2F593AEE58B0" source="EAID_062A3118_854F_40c1_A839_B387D85C164C" target="EAID_062A3118_854F_40c1_A839_B387D85C164C" modelElement="EAID_0ADDF1AC_DF1E_4dbe_8439_2F593AEE58B0">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_8439_2F593AEE58B0" text="dct:hasPart">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_8439_2F593AEE58B0" x="108" y="287" width="57" height="26"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_8439_2F593AEE58B0" x="128" y="289" width="57" height="26"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_8439_2F593AEE58B0" text="rdfProperty">
 					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_8439_2F593AEE58B0" x="118" y="323" width="100" height="10"/>
@@ -963,10 +963,10 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_8001_5F3A42F6D209" source="EAID_C187A366_F0EC_43f6_B7A6_AED26195D9A8" target="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" modelElement="EAID_0B0BEDC4_EB67_4594_8001_5F3A42F6D209">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_8001_5F3A42F6D209" text="dct:type">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_8001_5F3A42F6D209" x="760" y="720" width="33" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_8001_5F3A42F6D209" x="765" y="722" width="33" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_8001_5F3A42F6D209" text="rdfProperty">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_8001_5F3A42F6D209" x="732" y="736" width="60" height="26"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_8001_5F3A42F6D209" x="754" y="736" width="60" height="26"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLMultiplicityLabel" xmi:id="EAID_TML000000_86FB_45ca_8001_5F3A42F6D209" text="1..1" modelElement="EAID_dst0BEDC4_EB67_4594_8001_5F3A42F6D209">
 					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_8001_5F3A42F6D209" x="795" y="692" width="16" height="13"/>
@@ -977,13 +977,13 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_BF57_CF1304A55DE6" source="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" target="EAID_C187A366_F0EC_43f6_B7A6_AED26195D9A8" modelElement="EAID_CC0D5E7B_4688_4b15_BF57_CF1304A55DE6">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_BF57_CF1304A55DE6" text="skos:notation">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_BF57_CF1304A55DE6" x="694" y="794" width="54" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_BF57_CF1304A55DE6" x="704" y="796" width="54" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_BF57_CF1304A55DE6" text="rdfProperty">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_BF57_CF1304A55DE6" x="692" y="809" width="55" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_BF57_CF1304A55DE6" x="703" y="809" width="55" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLMultiplicityLabel" xmi:id="EAID_TML000000_86FB_45ca_BF57_CF1304A55DE6" text="0..*" modelElement="EAID_dst0D5E7B_4688_4b15_BF57_CF1304A55DE6">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_BF57_CF1304A55DE6" x="805" y="845" width="16" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_BF57_CF1304A55DE6" x="808" y="845" width="16" height="13"/>
 				</ownedElement>
 				<waypoint xmi:type="dc:waypoint" xmi:id="EAID_WP000000_86FB_45ca_BF57_CF1304A55DE6" x="732" y="687"/>
 				<waypoint xmi:type="dc:waypoint" xmi:id="EAID_WP000001_86FB_45ca_BF57_CF1304A55DE6" x="732" y="840"/>
@@ -991,20 +991,20 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_949D_90E06B3FF450" source="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" target="EAID_5B6B3938_6C03_49bb_8219_81CA6C9B7151" modelElement="EAID_0B701D95_0E3C_4796_949D_90E06B3FF450">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_949D_90E06B3FF450" text="euvoc:xlDefinition">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_949D_90E06B3FF450" x="950" y="676" width="71" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_949D_90E06B3FF450" x="965" y="678" width="71" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_949D_90E06B3FF450" text="rdfProperty">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_949D_90E06B3FF450" x="939" y="687" width="55" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_949D_90E06B3FF450" x="950" y="687" width="55" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLMultiplicityLabel" xmi:id="EAID_TML000000_86FB_45ca_949D_90E06B3FF450" text="0..*" modelElement="EAID_dst701D95_0E3C_4796_949D_90E06B3FF450">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_949D_90E06B3FF450" x="1105" y="689" width="16" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_949D_90E06B3FF450" x="1108" y="689" width="16" height="13"/>
 				</ownedElement>
 				<waypoint xmi:type="dc:waypoint" xmi:id="EAID_WP000000_86FB_45ca_949D_90E06B3FF450" x="827" y="684"/>
 				<waypoint xmi:type="dc:waypoint" xmi:id="EAID_WP000001_86FB_45ca_949D_90E06B3FF450" x="1127" y="684"/>
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_98AF_F64502FF4D48" source="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" target="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" modelElement="EAID_4315D18C_D6F8_4961_98AF_F64502FF4D48">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_98AF_F64502FF4D48" text="skos:narrowMatch">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_98AF_F64502FF4D48" x="667" y="241" width="75" height="26"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_98AF_F64502FF4D48" x="692" y="243" width="75" height="26"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_98AF_F64502FF4D48" text="rdfProperty">
 					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_98AF_F64502FF4D48" x="733" y="254" width="100" height="10"/>
@@ -1021,20 +1021,20 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_ABCE_8B808CD53115" source="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" target="EAID_5B6B3938_6C03_49bb_8219_81CA6C9B7151" modelElement="EAID_56288AD7_3EBF_45f6_ABCE_8B808CD53115">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_ABCE_8B808CD53115" text="euvoc:xlExample">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_ABCE_8B808CD53115" x="932" y="538" width="67" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_ABCE_8B808CD53115" x="944" y="540" width="67" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_ABCE_8B808CD53115" text="rdfProperty">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_ABCE_8B808CD53115" x="939" y="557" width="55" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_ABCE_8B808CD53115" x="950" y="557" width="55" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLMultiplicityLabel" xmi:id="EAID_TML000000_86FB_45ca_ABCE_8B808CD53115" text="0..*" modelElement="EAID_dst288AD7_3EBF_45f6_ABCE_8B808CD53115">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_ABCE_8B808CD53115" x="1105" y="559" width="16" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_ABCE_8B808CD53115" x="1108" y="559" width="16" height="13"/>
 				</ownedElement>
 				<waypoint xmi:type="dc:waypoint" xmi:id="EAID_WP000000_86FB_45ca_ABCE_8B808CD53115" x="827" y="554"/>
 				<waypoint xmi:type="dc:waypoint" xmi:id="EAID_WP000001_86FB_45ca_ABCE_8B808CD53115" x="1127" y="554"/>
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_88F9_7303F68E16A2" source="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" target="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" modelElement="EAID_0EDD72DE_A5E1_45ef_88F9_7303F68E16A2">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_88F9_7303F68E16A2" text="skos:broadMatch">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_88F9_7303F68E16A2" x="671" y="203" width="70" height="26"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_88F9_7303F68E16A2" x="696" y="205" width="70" height="26"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_88F9_7303F68E16A2" text="rdfProperty">
 					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_88F9_7303F68E16A2" x="733" y="217" width="100" height="10"/>
@@ -1051,33 +1051,33 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_A0C8_93DD914B3DAB" source="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" target="EAID_5B6B3938_6C03_49bb_8219_81CA6C9B7151" modelElement="EAID_E7107CA1_D4E6_44b6_A0C8_93DD914B3DAB">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_A0C8_93DD914B3DAB" text="euvoc:xlEditorialNote">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_A0C8_93DD914B3DAB" x="922" y="571" width="84" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_A0C8_93DD914B3DAB" x="939" y="573" width="84" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_A0C8_93DD914B3DAB" text="rdfProperty">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_A0C8_93DD914B3DAB" x="941" y="590" width="55" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_A0C8_93DD914B3DAB" x="952" y="590" width="55" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLMultiplicityLabel" xmi:id="EAID_TML000000_86FB_45ca_A0C8_93DD914B3DAB" text="0..*" modelElement="EAID_dst107CA1_D4E6_44b6_A0C8_93DD914B3DAB">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_A0C8_93DD914B3DAB" x="1105" y="592" width="16" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_A0C8_93DD914B3DAB" x="1108" y="592" width="16" height="13"/>
 				</ownedElement>
 				<waypoint xmi:type="dc:waypoint" xmi:id="EAID_WP000000_86FB_45ca_A0C8_93DD914B3DAB" x="827" y="587"/>
 				<waypoint xmi:type="dc:waypoint" xmi:id="EAID_WP000001_86FB_45ca_A0C8_93DD914B3DAB" x="1127" y="587"/>
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_8D3E_150C0C7CC927" source="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" target="EAID_5B6B3938_6C03_49bb_8219_81CA6C9B7151" modelElement="EAID_F18BE086_1F6D_4720_8D3E_150C0C7CC927">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_8D3E_150C0C7CC927" text="euvoc:xlScopeNote">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_8D3E_150C0C7CC927" x="926" y="502" width="76" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_8D3E_150C0C7CC927" x="939" y="504" width="76" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_8D3E_150C0C7CC927" text="rdfProperty">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_8D3E_150C0C7CC927" x="936" y="521" width="55" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_8D3E_150C0C7CC927" x="947" y="521" width="55" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLMultiplicityLabel" xmi:id="EAID_TML000000_86FB_45ca_8D3E_150C0C7CC927" text="0..*" modelElement="EAID_dst8BE086_1F6D_4720_8D3E_150C0C7CC927">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_8D3E_150C0C7CC927" x="1105" y="523" width="16" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_8D3E_150C0C7CC927" x="1108" y="523" width="16" height="13"/>
 				</ownedElement>
 				<waypoint xmi:type="dc:waypoint" xmi:id="EAID_WP000000_86FB_45ca_8D3E_150C0C7CC927" x="827" y="518"/>
 				<waypoint xmi:type="dc:waypoint" xmi:id="EAID_WP000001_86FB_45ca_8D3E_150C0C7CC927" x="1127" y="518"/>
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_80E6_48C4243B65F5" source="EAID_A4CE493D_35D5_4fed_BD2F_563348CDD47E" target="EAID_A4CE493D_35D5_4fed_BD2F_563348CDD47E" modelElement="EAID_0DFC29B0_AD0E_4aaa_80E6_48C4243B65F5">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_80E6_48C4243B65F5" text="skos:member">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_80E6_48C4243B65F5" x="509" y="906" width="57" height="26"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_80E6_48C4243B65F5" x="529" y="908" width="57" height="26"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_80E6_48C4243B65F5" text="rdfProperty">
 					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_80E6_48C4243B65F5" x="558" y="921" width="100" height="10"/>
@@ -1094,10 +1094,10 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_9CCC_4F75C90DC153" source="EAID_A4CE493D_35D5_4fed_BD2F_563348CDD47E" target="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" modelElement="EAID_55676E44_6047_4822_9CCC_4F75C90DC153">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_9CCC_4F75C90DC153" text="skos:member">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_9CCC_4F75C90DC153" x="641" y="733" width="55" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_9CCC_4F75C90DC153" x="650" y="735" width="55" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_9CCC_4F75C90DC153" text="rdfProperty">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_9CCC_4F75C90DC153" x="639" y="748" width="55" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_9CCC_4F75C90DC153" x="650" y="748" width="55" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLMultiplicityLabel" xmi:id="EAID_TML000000_86FB_45ca_9CCC_4F75C90DC153" text="0..*" modelElement="EAID_dst676E44_6047_4822_9CCC_4F75C90DC153">
 					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_9CCC_4F75C90DC153" x="689" y="692" width="16" height="13"/>
@@ -1108,10 +1108,10 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_8687_711B422E213D" source="EAID_A4CE493D_35D5_4fed_BD2F_563348CDD47E" target="EAID_6EE9AEEE_D7D2_48d4_8348_C7F75230486B" modelElement="EAID_EB3BA688_66E8_4f9f_8687_711B422E213D">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_8687_711B422E213D" text="skosxl:prefLabel">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_8687_711B422E213D" x="302" y="829" width="64" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_8687_711B422E213D" x="314" y="831" width="64" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_8687_711B422E213D" text="rdfProperty">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_8687_711B422E213D" x="302" y="848" width="55" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_8687_711B422E213D" x="313" y="848" width="55" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLMultiplicityLabel" xmi:id="EAID_TML000000_86FB_45ca_8687_711B422E213D" text="1..*" modelElement="EAID_dst3BA688_66E8_4f9f_8687_711B422E213D">
 					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_8687_711B422E213D" x="276" y="761" width="16" height="13"/>
@@ -1122,7 +1122,7 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_B3D4_83A6D3DC25AF" source="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" target="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" modelElement="EAID_802573C8_F6F8_47f1_B3D4_83A6D3DC25AF">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_B3D4_83A6D3DC25AF" text="skos:narrower">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_B3D4_83A6D3DC25AF" x="1005" y="310" width="57" height="26"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_B3D4_83A6D3DC25AF" x="1027" y="312" width="57" height="26"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_B3D4_83A6D3DC25AF" text="rdfProperty">
 					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_B3D4_83A6D3DC25AF" x="1047" y="309" width="100" height="10"/>
@@ -1139,13 +1139,13 @@
 			</ownedElement>
 			<ownedElement xmi:type="umldi:UMLEdge" xmi:id="EAID_C72DAA3E_86FB_45ca_9BA5_1485DBD7EBBA" source="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F" target="EAID_5B6B3938_6C03_49bb_8219_81CA6C9B7151" modelElement="EAID_19A41B9F_A6AA_41d6_9BA5_1485DBD7EBBA">
 				<ownedElement xmi:type="umldi:UMLNameLabel" xmi:id="EAID_NL000000_86FB_45ca_9BA5_1485DBD7EBBA" text="euvoc:xlHistoryNote">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_9BA5_1485DBD7EBBA" x="930" y="605" width="80" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBNL000000_86FB_45ca_9BA5_1485DBD7EBBA" x="945" y="607" width="80" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLKeywordLabel" xmi:id="EAID_KL000000_86FB_45ca_9BA5_1485DBD7EBBA" text="rdfProperty">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_9BA5_1485DBD7EBBA" x="941" y="621" width="55" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBKL000000_86FB_45ca_9BA5_1485DBD7EBBA" x="952" y="621" width="55" height="13"/>
 				</ownedElement>
 				<ownedElement xmi:type="umldi:UMLMultiplicityLabel" xmi:id="EAID_TML000000_86FB_45ca_9BA5_1485DBD7EBBA" text="0..*" modelElement="EAID_dstA41B9F_A6AA_41d6_9BA5_1485DBD7EBBA">
-					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_9BA5_1485DBD7EBBA" x="1105" y="624" width="16" height="13"/>
+					<bounds xmi:type="dc:bounds" xmi:id="EAID_DBTML000000_86FB_45ca_9BA5_1485DBD7EBBA" x="1108" y="624" width="16" height="13"/>
 				</ownedElement>
 				<waypoint xmi:type="dc:waypoint" xmi:id="EAID_WP000000_86FB_45ca_9BA5_1485DBD7EBBA" x="827" y="619"/>
 				<waypoint xmi:type="dc:waypoint" xmi:id="EAID_WP000001_86FB_45ca_9BA5_1485DBD7EBBA" x="1127" y="619"/>
@@ -1197,7 +1197,7 @@
 						<initial/>
 						<documentation value="Date of creation of the resource.&#xA;"/>
 						<model ea_localid="1" ea_guid="{1EEC80B9-DAA1-4d7d-BCC2-A85DE0A34F8D}"/>
-						<properties type="xsd:date" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:date" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="2"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1215,7 +1215,7 @@
 						<initial/>
 						<documentation value="Date of modification of the resource.&#xA;"/>
 						<model ea_localid="2" ea_guid="{54740090-5F37-43fd-9B8E-04BE04F36DCA}"/>
-						<properties type="xsd:date" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:date" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="3"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1233,7 +1233,7 @@
 						<initial/>
 						<documentation value="End of the validity period. If a resource has an end date then it must be marked as deprecated. &#xA;"/>
 						<model ea_localid="3" ea_guid="{1B0C48DA-7588-4d1a-B571-22473E8CDD15}"/>
-						<properties type="xsd:date" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:date" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="5"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1251,7 +1251,7 @@
 						<initial/>
 						<documentation value="Beginning of the validity period.&#xA;"/>
 						<model ea_localid="4" ea_guid="{3FFDD2C8-7A45-410c-9EEC-BE5AD6B46B4F}"/>
-						<properties type="xsd:date" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:date" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="4"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1269,7 +1269,7 @@
 						<initial/>
 						<documentation value="States whether the resource is current or deprecated. By deprecating a resource, it means that it should not be used in new documents.&#xA;Deprecation is a feature commonly used in versioning software to indicate that a particular feature is preserved for backward-compatibility purposes, but may be phased out in the future. &#xA;"/>
 						<model ea_localid="5" ea_guid="{B1549BB1-2D0D-4349-B69F-0A1D896D3FDE}"/>
-						<properties type="xsd:boolean" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:boolean" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="1"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1287,7 +1287,7 @@
 						<initial/>
 						<documentation value="The literal form of the notation. "/>
 						<model ea_localid="6" ea_guid="{7F51ACF1-36BF-47eb-9494-5AE58A5740C8}"/>
-						<properties type="rdfs:Literal" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Literal" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="0"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1324,7 +1324,7 @@
 						<initial/>
 						<documentation value="Date of creation of the resource.&#xA;"/>
 						<model ea_localid="7" ea_guid="{E5EB97FA-73C3-46c0-BC10-DF170EDD099D}"/>
-						<properties type="xsd:date" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:date" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="2"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1342,7 +1342,7 @@
 						<initial/>
 						<documentation value="Date of modification of the resource."/>
 						<model ea_localid="8" ea_guid="{FB84B7BA-BC5A-490c-BF2A-2D69B195738D}"/>
-						<properties type="xsd:date" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:date" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="3"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1360,7 +1360,7 @@
 						<initial/>
 						<documentation value="A related resource from which the described resource is derived. &#xA;The described resource may be derived from the related resource in whole or in part. Recommended best practice is to identify the related resource by means of a string conforming to a formal identification system."/>
 						<model ea_localid="9" ea_guid="{D846B6C1-57EE-4414-9BB6-0EC8276B2CE7}"/>
-						<properties type="rdfs:Resource" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Resource" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="4"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1378,7 +1378,7 @@
 						<initial/>
 						<documentation value="The literal form of the note."/>
 						<model ea_localid="10" ea_guid="{9B66F6FC-DA16-4132-B241-11831A9F6DAC}"/>
-						<properties type="rdfs:Literal" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Literal" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="0"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1473,7 +1473,7 @@
 						<initial/>
 						<documentation value="Date of creation of the resource."/>
 						<model ea_localid="11" ea_guid="{39A08A6B-E25B-46ea-96B7-EC903C839B39}"/>
-						<properties type="xsd:date" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:date" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="0"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1491,7 +1491,7 @@
 						<initial/>
 						<documentation value="Date of modification of the resource."/>
 						<model ea_localid="12" ea_guid="{CC6D079F-A1FF-4925-89C1-CE915B228D9B}"/>
-						<properties type="xsd:date" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:date" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="1"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1530,7 +1530,7 @@
 						<initial/>
 						<documentation value="Date of creation of the resource."/>
 						<model ea_localid="13" ea_guid="{DFE14B1A-540E-44df-80C0-C20BB0975B4C}"/>
-						<properties type="xsd:date" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:date" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="1"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1548,7 +1548,7 @@
 						<initial/>
 						<documentation value="Date when the resource creation or modification is accepted by the governance committee."/>
 						<model ea_localid="43" ea_guid="{1186356C-ED54-4f5c-A8D6-178928660384}"/>
-						<properties type="xsd:date" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:date" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
 						<containment containment="Not Specified" position="17"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1566,7 +1566,7 @@
 						<initial/>
 						<documentation value="Date when the resource creation or modification is sent for review to the governance committee.&#xA;"/>
 						<model ea_localid="42" ea_guid="{E8CB2D7D-36AA-4bc0-8429-51F9221372E9}"/>
-						<properties type="xsd:date" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:date" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
 						<containment containment="Not Specified" position="16"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1584,7 +1584,7 @@
 						<initial/>
 						<documentation value="Date of modification of the resource.&#xA;"/>
 						<model ea_localid="14" ea_guid="{3E9A21A5-AE32-41bd-B8B9-AC986014C39C}"/>
-						<properties type="xsd:date" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:date" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="2"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1602,7 +1602,7 @@
 						<initial/>
 						<documentation value="End of the validity period. If a resource has an end date then it must be marked as deprecated. "/>
 						<model ea_localid="15" ea_guid="{087AF5F6-D800-4ef0-B6D8-1EDF885C89A3}"/>
-						<properties type="xsd:date" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:date" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="5"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1620,7 +1620,7 @@
 						<initial/>
 						<documentation value="Beginning of the validity period. &#xA;"/>
 						<model ea_localid="16" ea_guid="{E6EE0779-1246-4ade-9E91-582F0D24F7F5}"/>
-						<properties type="xsd:date" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:date" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="4"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1638,7 +1638,7 @@
 						<initial/>
 						<documentation value="Denotes the pragmatic, discursive or technical context of a concept or a constraint on the concept properties."/>
 						<model ea_localid="17" ea_guid="{D7F01917-35A0-4229-81FE-F2319EC20758}"/>
-						<properties type="rdfs:Resource" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Resource" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="6"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1656,7 +1656,7 @@
 						<initial/>
 						<documentation value="States whether the resource is current or deprecated. By deprecating a resource, it means that it should not be used in new documents.&#xA;Deprecation is a feature commonly used in versioning software to indicate that a particular feature is preserved for backward-compatibility purposes, but may be phased out in the future. "/>
 						<model ea_localid="18" ea_guid="{CDA481B3-FBF3-4044-8D4F-D386851DB582}"/>
-						<properties type="xsd:boolean" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:boolean" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="3"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1674,7 +1674,7 @@
 						<initial/>
 						<documentation value="An owl:versionInfo statement generally has as its object a string giving information about this version. This statement does not contribute to the logical meaning of the resource.&#xA;"/>
 						<model ea_localid="19" ea_guid="{A064DE8A-EAC3-4b14-8FAA-A7F44CBCCC2E}"/>
-						<properties type="rdfs:Literal" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Literal" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="0"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1692,7 +1692,7 @@
 						<initial/>
 						<documentation value="An alternative lexical label for a resource. Acronyms, abbreviations, spelling variants, and irregular plural/singular forms may be included among the alternative labels for a concept. &#xA;"/>
 						<model ea_localid="35" ea_guid="{300AD093-9DA2-4934-A358-3802BF848534}"/>
-						<properties type="rdfs:Literal" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Literal" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
 						<containment containment="Not Specified" position="9"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1710,7 +1710,7 @@
 						<initial/>
 						<documentation value="A note about a modification to a concept."/>
 						<model ea_localid="38" ea_guid="{D619FA8F-8ACE-4c62-9254-CBFA6C1A3939}"/>
-						<properties type="rdfs:Literal" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Literal" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
 						<containment containment="Not Specified" position="12"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1728,7 +1728,7 @@
 						<initial/>
 						<documentation value="A statement or formal explanation of the meaning of a concept."/>
 						<model ea_localid="37" ea_guid="{EBA8EBF0-A667-4bd5-805B-FE7532DEAC01}"/>
-						<properties type="rdfs:Literal" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Literal" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
 						<containment containment="Not Specified" position="11"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1746,7 +1746,7 @@
 						<initial/>
 						<documentation value="A note for an editor, translator or maintainer of the vocabulary.&#xA;"/>
 						<model ea_localid="41" ea_guid="{9636E1E0-6531-4721-8E19-99B369CFF5AE}"/>
-						<properties type="rdfs:Literal" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Literal" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
 						<containment containment="Not Specified" position="15"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1764,7 +1764,7 @@
 						<initial/>
 						<documentation value="An example of the use of a concept."/>
 						<model ea_localid="44" ea_guid="{0B69E87A-3B03-4749-864F-884A33F3197E}"/>
-						<properties type="rdfs:Literal" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Literal" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
 						<containment containment="Not Specified" position="18"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1782,7 +1782,7 @@
 						<initial/>
 						<documentation value="A lexical label for a resource that should be hidden when generating visual displays of the resource, but should still be accessible to free text search operations. Mis-spelled terms are normally included as hidden labels."/>
 						<model ea_localid="36" ea_guid="{769DB45A-CD67-4f6c-9457-42E4C9541010}"/>
-						<properties type="rdfs:Literal" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Literal" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
 						<containment containment="Not Specified" position="10"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1800,7 +1800,7 @@
 						<initial/>
 						<documentation value="A note about the past state/use/meaning of a concept."/>
 						<model ea_localid="40" ea_guid="{DD28E077-B0A2-4428-8100-ECA89C5C0D6B}"/>
-						<properties type="rdfs:Literal" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Literal" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
 						<containment containment="Not Specified" position="14"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1818,7 +1818,7 @@
 						<initial/>
 						<documentation/>
 						<model ea_localid="33" ea_guid="{687ACA34-0C8F-4733-8410-B818EB47AB63}"/>
-						<properties type="rdfs:Literal" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Literal" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
 						<containment containment="Not Specified" position="7"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1836,7 +1836,7 @@
 						<initial/>
 						<documentation value="The preferred lexical label for a resource, in a given language. No two concepts in the same concept scheme may have the same preferred label in a given language. "/>
 						<model ea_localid="34" ea_guid="{EDFEA977-54A6-4757-957D-3F5F959681C0}"/>
-						<properties type="rdfs:Literal" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Literal" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
 						<containment containment="Not Specified" position="8"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1854,7 +1854,7 @@
 						<initial/>
 						<documentation value="A note that helps to clarify the meaning of a concept."/>
 						<model ea_localid="39" ea_guid="{3A420E42-FB39-47a5-BC92-2D9880A13151}"/>
-						<properties type="rdfs:Literal" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Literal" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
 						<containment containment="Not Specified" position="13"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1925,7 +1925,7 @@
 						<initial/>
 						<documentation value="Date of creation of the resource.&#xA;"/>
 						<model ea_localid="20" ea_guid="{7F4C3152-5EEA-4d14-A7B0-DF0503BCFBDC}"/>
-						<properties type="xsd:date" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:date" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="3"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1943,7 +1943,7 @@
 						<initial/>
 						<documentation value="An unambiguous reference to the resource within a given context.&#xA;&#xA;Recommended best practice is to identify the resource by means of a string conforming to a formal identification system.&#xA;&#xA;"/>
 						<model ea_localid="21" ea_guid="{6683D1A2-4933-4e67-A536-983C31744168}"/>
-						<properties type="rdfs:Literal" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Literal" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="1"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1961,7 +1961,7 @@
 						<initial/>
 						<documentation value="Date of modification of the resource.&#xA;"/>
 						<model ea_localid="22" ea_guid="{3B5BDC79-89DA-4d8f-811D-02860187B968}"/>
-						<properties type="xsd:date" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:date" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="4"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1979,7 +1979,7 @@
 						<initial/>
 						<documentation value="An owl:versionInfo statement generally has as its object a string giving information about this version. This statement does not contribute to the logical meaning of the resource."/>
 						<model ea_localid="23" ea_guid="{97497F68-BB10-4961-A684-9378992AE913}"/>
-						<properties type="rdfs:Literal" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Literal" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="0"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -1997,7 +1997,7 @@
 						<initial/>
 						<documentation value="An alternative lexical label for a resource. Acronyms, abbreviations, spelling variants, and irregular plural/singular forms may be included among the alternative labels for a concept. "/>
 						<model ea_localid="32" ea_guid="{85A337D6-391B-4180-967C-141741A9AC1C}"/>
-						<properties type="rdfs:Literal" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Literal" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
 						<containment containment="Not Specified" position="5"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -2015,7 +2015,7 @@
 						<initial/>
 						<documentation value="The preferred lexical label for a resource, in a given language. No two concepts in the same concept scheme may have the same preferred label in a given language. "/>
 						<model ea_localid="31" ea_guid="{C992BD6E-A516-41df-83A0-1DA4BC1DF2D4}"/>
-						<properties type="rdfs:Literal" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Literal" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
 						<containment containment="Not Specified" position="4"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -2086,7 +2086,7 @@
 						<initial/>
 						<documentation value="Date of creation of the resource.&#xA;"/>
 						<model ea_localid="24" ea_guid="{01F72AEE-F25B-4766-A4FB-F4CE8B27DEE5}"/>
-						<properties type="xsd:date" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:date" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="1"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -2104,7 +2104,7 @@
 						<initial/>
 						<documentation value="Date of modification of the resource.&#xA;"/>
 						<model ea_localid="25" ea_guid="{AF50DEC1-FF3C-436c-A6D2-A551AE291B06}"/>
-						<properties type="xsd:date" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:date" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="2"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -2122,7 +2122,7 @@
 						<initial/>
 						<documentation value="A related resource from which the described resource is derived in whole or in part. Recommended best practice is to identify the related resource by means of a string conforming to a formal identification system."/>
 						<model ea_localid="46" ea_guid="{DA1E05A6-2A09-4d9e-8BEB-8D5ED932130E}"/>
-						<properties type="rdfs:Literal" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Literal" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
 						<containment containment="Not Specified" position="8"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -2140,7 +2140,7 @@
 						<initial/>
 						<documentation value="End of the validity period. If a resource has an end date then it must be marked as deprecated. &#xA;"/>
 						<model ea_localid="26" ea_guid="{C5A18804-D5D5-43f9-A848-719E8AA4A180}"/>
-						<properties type="xsd:date" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:date" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="5"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -2158,7 +2158,7 @@
 						<initial/>
 						<documentation value="Beginning of the validity period.&#xA;"/>
 						<model ea_localid="27" ea_guid="{14EF7E36-D712-483c-BC17-CBCBF3CAC806}"/>
-						<properties type="xsd:date" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:date" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="4"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -2176,7 +2176,7 @@
 						<initial/>
 						<documentation value="Indicates the status of a resource in the process of asset management.&#xA;"/>
 						<model ea_localid="45" ea_guid="{32D098A7-BA78-45cd-B1DB-BF69CF31C7E7}"/>
-						<properties type="rdfs:Resource" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Resource" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
 						<containment containment="Not Specified" position="7"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -2192,16 +2192,16 @@
 					</attribute>
 					<attribute xmi:idref="EAID_B5F6E2E8_E72F_4e3b_AF7B_CFCBF6A6C31D" name="lexinfo:animacy" scope="Public">
 						<initial/>
-						<documentation/>
+						<documentation value="The characteristic of a word indicating that in a given discourse community, its referent is considered to be alive or to possess a quality of volition or consciousness."/>
 						<model ea_localid="49" ea_guid="{B5F6E2E8-E72F-4e3b-AF7B-CFCBF6A6C31D}"/>
-						<properties type="rdfs:Resource" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Resource" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
 						<containment containment="Not Specified" position="11"/>
 						<stereotype stereotype="rdfProperty"/>
 						<bounds lower="0" upper="1"/>
 						<options/>
 						<style/>
-						<styleex value="volatile=0;"/>
+						<styleex value="volatile=0;union=0;"/>
 						<tags>
 							<tag xmi:id="EAID_07D93580_7E85_367e_8F4F_F6D9FFBAE8C5" name="label"/>
 							<tag xmi:id="EAID_1936012D_E2B2_3be2_A735_DAF9DAA0895D" name="uriRef"/>
@@ -2212,7 +2212,7 @@
 						<initial/>
 						<documentation value="A grammatical category that indicates grammatical variation in numerals. This feature  is used in Maltese language."/>
 						<model ea_localid="50" ea_guid="{1F04BF2A-3745-426b-AADE-0E6271F79791}"/>
-						<properties type="rdfs:Resource" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Resource" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
 						<containment containment="Not Specified" position="12"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -2230,7 +2230,7 @@
 						<initial/>
 						<documentation value="A grammatical category that indicates grammatical relationships between words in sentences."/>
 						<model ea_localid="47" ea_guid="{06443C0B-0149-4cac-AA2E-76754744AB70}"/>
-						<properties type="rdfs:Resource" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Resource" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
 						<containment containment="Not Specified" position="9"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -2248,7 +2248,7 @@
 						<initial/>
 						<documentation value="Grammatical category for the variation in form of nouns, pronouns, and any words agreeing with them, depending on how many persons or things are referred to.&#xA;In many languages, the grammatical distinction that indicates the number of objects referred to by the term or word."/>
 						<model ea_localid="48" ea_guid="{3C540251-0590-4613-9046-A8FD5E94472F}"/>
-						<properties type="rdfs:Resource" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Resource" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0"/>
 						<containment containment="Not Specified" position="10"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -2266,7 +2266,7 @@
 						<initial/>
 						<documentation value="States whether the resource is current or deprecated. By deprecating a resource, it means that it should not be used in new documents.&#xA;Deprecation is a feature commonly used in versioning software to indicate that a particular feature is preserved for backward-compatibility purposes, but may be phased out in the future. "/>
 						<model ea_localid="28" ea_guid="{D410A4B7-0275-4e88-9782-298B9FE6097B}"/>
-						<properties type="xsd:boolean" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="xsd:boolean" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="3"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -2284,7 +2284,7 @@
 						<initial/>
 						<documentation value="An owl:versionInfo statement generally has as its object a string giving information about this version. This statement does not contribute to the logical meaning of the resource."/>
 						<model ea_localid="29" ea_guid="{DA2E2ACB-A9EC-4f6a-86D5-6E9677A24ED5}"/>
-						<properties type="rdfs:Literal" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Literal" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="6"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -2302,7 +2302,7 @@
 						<initial/>
 						<documentation value="The literal form of an skosxl:Label.  An instance of the class skosxl:Label has one and only one literal form. "/>
 						<model ea_localid="30" ea_guid="{D9E7D6BA-5753-478a-889F-6B3EA5687EA9}"/>
-						<properties type="rdfs:Literal" derived="0" collection="false" duplicates="0" changeability="changeable"/>
+						<properties type="rdfs:Literal" derived="0" collection="false" static="0" duplicates="0" changeability="changeable"/>
 						<coords ordered="0" scale="0"/>
 						<containment containment="Not Specified" position="0"/>
 						<stereotype stereotype="rdfProperty"/>
@@ -2368,7 +2368,7 @@
 			</element>
 		</elements>
 		<connectors>
-			<connector xmi:idref="EAID_0B0BEDC4_EB67_4594_8001_5F3A42F6D209">
+			<connector xmi:idref="EAID_0B0BEDC4_EB67_4594_8001_5F3A42F6D209" name="dct:type">
 				<source xmi:idref="EAID_C187A366_F0EC_43f6_B7A6_AED26195D9A8">
 					<model ea_localid="2" type="Class" name="euvoc:XlNotation"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -2409,7 +2409,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_9020_38C084727EF3" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_CC0D5E7B_4688_4b15_BF57_CF1304A55DE6">
+			<connector xmi:idref="EAID_CC0D5E7B_4688_4b15_BF57_CF1304A55DE6" name="skos:notation">
 				<source xmi:idref="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F">
 					<model ea_localid="9" type="Class" name="skos:Concept"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -2447,7 +2447,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_AC0D_7E2960030262" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_0B701D95_0E3C_4796_949D_90E06B3FF450">
+			<connector xmi:idref="EAID_0B701D95_0E3C_4796_949D_90E06B3FF450" name="euvoc:xlDefinition">
 				<source xmi:idref="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F">
 					<model ea_localid="9" type="Class" name="skos:Concept"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -2485,7 +2485,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_8C31_9537CF97FADB" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_19A41B9F_A6AA_41d6_9BA5_1485DBD7EBBA">
+			<connector xmi:idref="EAID_19A41B9F_A6AA_41d6_9BA5_1485DBD7EBBA" name="euvoc:xlHistoryNote">
 				<source xmi:idref="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F">
 					<model ea_localid="9" type="Class" name="skos:Concept"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -2523,7 +2523,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_ABBF_DC4F317F751E" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_56288AD7_3EBF_45f6_ABCE_8B808CD53115">
+			<connector xmi:idref="EAID_56288AD7_3EBF_45f6_ABCE_8B808CD53115" name="euvoc:xlExample">
 				<source xmi:idref="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F">
 					<model ea_localid="9" type="Class" name="skos:Concept"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -2561,7 +2561,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_A064_09D77AB61CFC" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_DB00FCEB_8444_4f51_8603_8FFA086950AE">
+			<connector xmi:idref="EAID_DB00FCEB_8444_4f51_8603_8FFA086950AE" name="euvoc:xlChangeNote">
 				<source xmi:idref="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F">
 					<model ea_localid="9" type="Class" name="skos:Concept"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -2599,7 +2599,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_84DF_2C352307E92F" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_E7107CA1_D4E6_44b6_A0C8_93DD914B3DAB">
+			<connector xmi:idref="EAID_E7107CA1_D4E6_44b6_A0C8_93DD914B3DAB" name="euvoc:xlEditorialNote">
 				<source xmi:idref="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F">
 					<model ea_localid="9" type="Class" name="skos:Concept"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -2637,7 +2637,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_B4AE_40B770BE70E0" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_F18BE086_1F6D_4720_8D3E_150C0C7CC927">
+			<connector xmi:idref="EAID_F18BE086_1F6D_4720_8D3E_150C0C7CC927" name="euvoc:xlScopeNote">
 				<source xmi:idref="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F">
 					<model ea_localid="9" type="Class" name="skos:Concept"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -2675,7 +2675,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_A4C6_A7C4B0774B45" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_0DFC29B0_AD0E_4aaa_80E6_48C4243B65F5">
+			<connector xmi:idref="EAID_0DFC29B0_AD0E_4aaa_80E6_48C4243B65F5" name="skos:member">
 				<source xmi:idref="EAID_A4CE493D_35D5_4fed_BD2F_563348CDD47E">
 					<model ea_localid="8" type="Class" name="skos:Collection"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -2713,7 +2713,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_84C9_0B9B8A734EFA" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_55676E44_6047_4822_9CCC_4F75C90DC153">
+			<connector xmi:idref="EAID_55676E44_6047_4822_9CCC_4F75C90DC153" name="skos:member">
 				<source xmi:idref="EAID_A4CE493D_35D5_4fed_BD2F_563348CDD47E">
 					<model ea_localid="8" type="Class" name="skos:Collection"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -2751,7 +2751,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_8B55_3E66B0C9EB63" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_EB3BA688_66E8_4f9f_8687_711B422E213D">
+			<connector xmi:idref="EAID_EB3BA688_66E8_4f9f_8687_711B422E213D" name="skosxl:prefLabel">
 				<source xmi:idref="EAID_A4CE493D_35D5_4fed_BD2F_563348CDD47E">
 					<model ea_localid="8" type="Class" name="skos:Collection"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -2789,7 +2789,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_B840_012ED3A5E589" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_018A89E7_570D_4f16_8447_C5422E735731">
+			<connector xmi:idref="EAID_018A89E7_570D_4f16_8447_C5422E735731" name="skos:inScheme">
 				<source xmi:idref="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F">
 					<model ea_localid="9" type="Class" name="skos:Concept"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -2827,7 +2827,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_BEFA_62A259ECE721" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_0EDD72DE_A5E1_45ef_88F9_7303F68E16A2">
+			<connector xmi:idref="EAID_0EDD72DE_A5E1_45ef_88F9_7303F68E16A2" name="skos:broadMatch">
 				<source xmi:idref="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F">
 					<model ea_localid="9" type="Class" name="skos:Concept"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -2865,7 +2865,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_AAE9_C17E79E50712" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_4315D18C_D6F8_4961_98AF_F64502FF4D48">
+			<connector xmi:idref="EAID_4315D18C_D6F8_4961_98AF_F64502FF4D48" name="skos:narrowMatch">
 				<source xmi:idref="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F">
 					<model ea_localid="9" type="Class" name="skos:Concept"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -2903,7 +2903,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_AA99_FD46C4FEB161" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_55158759_7F07_4cc0_91A6_D52EE5F11EB5">
+			<connector xmi:idref="EAID_55158759_7F07_4cc0_91A6_D52EE5F11EB5" name="skos:broader">
 				<source xmi:idref="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F">
 					<model ea_localid="9" type="Class" name="skos:Concept"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -2941,7 +2941,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_8C97_82B98AEB60D0" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_56F7E7FB_FCC5_4dfe_B252_6CCE49C7CCCD">
+			<connector xmi:idref="EAID_56F7E7FB_FCC5_4dfe_B252_6CCE49C7CCCD" name="dct:isReplacedBy">
 				<source xmi:idref="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F">
 					<model ea_localid="9" type="Class" name="skos:Concept"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -2979,7 +2979,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_8657_411EB63169F7" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_57B28FD9_FC91_4e82_B29D_24EBAB6EE328">
+			<connector xmi:idref="EAID_57B28FD9_FC91_4e82_B29D_24EBAB6EE328" name="skos:exactMatch">
 				<source xmi:idref="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F">
 					<model ea_localid="9" type="Class" name="skos:Concept"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -3017,7 +3017,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_86EA_FFE954CCBAE3" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_78B70CF7_2487_42c3_B57E_552490497D22">
+			<connector xmi:idref="EAID_78B70CF7_2487_42c3_B57E_552490497D22" name="skos:closeMatch">
 				<source xmi:idref="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F">
 					<model ea_localid="9" type="Class" name="skos:Concept"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -3055,7 +3055,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_AB55_9E8B0342B208" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_7BB6211B_FB0A_471b_B759_E26036761C2A">
+			<connector xmi:idref="EAID_7BB6211B_FB0A_471b_B759_E26036761C2A" name="skos:relatedMatch">
 				<source xmi:idref="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F">
 					<model ea_localid="9" type="Class" name="skos:Concept"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -3093,7 +3093,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_99F8_41721F91388A" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_802573C8_F6F8_47f1_B3D4_83A6D3DC25AF">
+			<connector xmi:idref="EAID_802573C8_F6F8_47f1_B3D4_83A6D3DC25AF" name="skos:narrower">
 				<source xmi:idref="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F">
 					<model ea_localid="9" type="Class" name="skos:Concept"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -3131,7 +3131,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_BBFE_4B9A0A95D60C" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_806C2017_9694_4bca_BFB6_05BDE092E6BF">
+			<connector xmi:idref="EAID_806C2017_9694_4bca_BFB6_05BDE092E6BF" name="skosxl:altLabel">
 				<source xmi:idref="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F">
 					<model ea_localid="9" type="Class" name="skos:Concept"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -3169,7 +3169,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_B225_AEF2A88EDC7E" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_9F0B4A11_E0F6_4c57_A4A6_78E75FE13702">
+			<connector xmi:idref="EAID_9F0B4A11_E0F6_4c57_A4A6_78E75FE13702" name="skosxl:hiddenLabel">
 				<source xmi:idref="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F">
 					<model ea_localid="9" type="Class" name="skos:Concept"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -3207,7 +3207,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_B283_2A581D132A91" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_AD62922A_5333_4565_9B84_DD851534A1DF">
+			<connector xmi:idref="EAID_AD62922A_5333_4565_9B84_DD851534A1DF" name="skos:topConceptOf">
 				<source xmi:idref="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F">
 					<model ea_localid="9" type="Class" name="skos:Concept"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -3245,7 +3245,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_A830_6F5645A4E390" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_C0593FB3_188D_410b_9FF4_B9B263283018">
+			<connector xmi:idref="EAID_C0593FB3_188D_410b_9FF4_B9B263283018" name="skosxl:prefLabel">
 				<source xmi:idref="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F">
 					<model ea_localid="9" type="Class" name="skos:Concept"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -3283,7 +3283,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_88AF_4179EF38B9F3" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_D0BCE709_9CDE_463a_B21C_F5D5C4F293B9">
+			<connector xmi:idref="EAID_D0BCE709_9CDE_463a_B21C_F5D5C4F293B9" name="dct:replaces">
 				<source xmi:idref="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F">
 					<model ea_localid="9" type="Class" name="skos:Concept"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -3321,7 +3321,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_84AA_4ACF26FB104D" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_DA5F4911_21FA_4617_B0F4_3DC202822284">
+			<connector xmi:idref="EAID_DA5F4911_21FA_4617_B0F4_3DC202822284" name="skos:related">
 				<source xmi:idref="EAID_08ECE81D_2C53_42cb_8B8F_14C3E05DFF2F">
 					<model ea_localid="9" type="Class" name="skos:Concept"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -3359,7 +3359,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_8C47_B36122C06EA5" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_262E7292_C2E3_4e96_902F_75888F5FB07E">
+			<connector xmi:idref="EAID_262E7292_C2E3_4e96_902F_75888F5FB07E" name="euvoc:domain">
 				<source xmi:idref="EAID_062A3118_854F_40c1_A839_B387D85C164C">
 					<model ea_localid="10" type="Class" name="skos:ConceptScheme"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -3400,7 +3400,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_A859_A93C907172D3" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_37882A67_8264_434f_814C_40B86BAC1B66">
+			<connector xmi:idref="EAID_37882A67_8264_434f_814C_40B86BAC1B66" name="dct:type">
 				<source xmi:idref="EAID_6EE9AEEE_D7D2_48d4_8348_C7F75230486B">
 					<model ea_localid="12" type="Class" name="skosxl:Label"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -3441,7 +3441,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_B167_64FBC75237CD" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_0ADDF1AC_DF1E_4dbe_8439_2F593AEE58B0">
+			<connector xmi:idref="EAID_0ADDF1AC_DF1E_4dbe_8439_2F593AEE58B0" name="dct:hasPart">
 				<source xmi:idref="EAID_062A3118_854F_40c1_A839_B387D85C164C">
 					<model ea_localid="10" type="Class" name="skos:ConceptScheme"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -3479,7 +3479,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_A8B8_08ECDB650013" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_9AD84B1C_6283_42e5_A45E_065F7A30F626">
+			<connector xmi:idref="EAID_9AD84B1C_6283_42e5_A45E_065F7A30F626" name="dct:isPartOf">
 				<source xmi:idref="EAID_062A3118_854F_40c1_A839_B387D85C164C">
 					<model ea_localid="10" type="Class" name="skos:ConceptScheme"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -3517,7 +3517,7 @@
 					<tag xmi:id="EAID_1936012D_E2B2_3be2_827B_119426133694" name="uriRef"/>
 				</tags>
 			</connector>
-			<connector xmi:idref="EAID_EB07D2F4_E3F2_45c5_A9CE_36709ACD7404">
+			<connector xmi:idref="EAID_EB07D2F4_E3F2_45c5_A9CE_36709ACD7404" name="skosxl:prefLabel">
 				<source xmi:idref="EAID_062A3118_854F_40c1_A839_B387D85C164C">
 					<model ea_localid="10" type="Class" name="skos:ConceptScheme"/>
 					<role visibility="Public" targetScope="instance"/>
@@ -3788,7 +3788,7 @@
 				<project author="Eugeniu Costetchi" version="1.0" created="2019-08-22 00:00:00" modified="2019-08-26 14:09:19"/>
 				<style1 value="ShowPrivate=1;ShowProtected=1;ShowPublic=1;HideRelationships=0;Locked=0;Border=1;HighlightForeign=0;PackageContents=0;SequenceNotes=0;ScalePrintImage=0;PPgs.cx=2;PPgs.cy=1;DocSize.cx=780;DocSize.cy=1134;ShowDetails=0;Orientation=P;Zoom=100;ShowTags=0;OpParams=1;VisibleAttributeDetail=0;ShowOpRetType=1;ShowIcons=1;CollabNums=0;HideProps=0;ShowReqs=0;ShowCons=0;PaperSize=9;HideParents=0;UseAlias=0;HideAtts=0;HideOps=0;HideStereo=0;HideElemStereo=0;ShowTests=0;ShowMaint=0;ConnectorNotation=UML 2.1;ExplicitNavigability=0;ShowShape=1;AllDockable=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;m_bElementClassifier=1;SPT=1;ShowNotes=0;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;"/>
 				<style2 value="ExcludeRTF=0;DocAll=0;HideQuals=0;AttPkg=1;ShowTests=0;ShowMaint=0;SuppressFOC=1;MatrixActive=0;SwimlanesActive=1;KanbanActive=0;MatrixLineWidth=1;MatrixLineClr=0;MatrixLocked=0;TConnectorNotation=UML 2.1;TExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;m_bElementClassifier=1;SPT=1;MDGDgm=ODM::RDFDefinition;STBLDgm=;ShowNotes=0;VisibleAttributeDetail=0;ShowOpRetType=1;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;SuppressedCompartments=;Theme=:119;SaveTag=0CFF2126;"/>
-				<swimlanes value="locked=false;orientation=0;width=0;inbar=false;names=false;color=-1;bold=false;fcol=0;tcol=-1;ofCol=-1;ufCol=-1;hl=0;ufh=0;hh=0;cls=0;bw=0;hli=0;"/>
+				<swimlanes value="locked=false;orientation=0;width=0;inbar=false;names=false;color=-1;bold=false;fcol=0;tcol=-1;ofCol=-1;ufCol=-1;hl=0;ufh=0;hh=0;cls=0;bw=0;hli=0;SwimlaneFont=lfh:-10,lfw:0,lfi:0,lfu:0,lfs:0,lfface:Carlito,lfe:0,lfo:0,lfchar:1,lfop:0,lfcp:0,lfq:0,lfpf=0,lfWidth=0;"/>
 				<matrixitems value="locked=false;matrixactive=false;swimlanesactive=true;kanbanactive=false;width=1;clrLine=0;"/>
 				<extendedProperties/>
 				<elements>
