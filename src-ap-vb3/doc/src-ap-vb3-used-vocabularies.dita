@@ -2,7 +2,7 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
 "topic.dtd">
 <topic id="src-ap-vb3-used-vocabularies">
-  <title>External vocabularies (re-)used</title>
+  <title>Used vocabularies</title>
 
   <body>
     <p>This Application Profile reuses classes and properties from various
@@ -71,6 +71,14 @@
             <entry>lemon</entry>
 
             <entry>http://lemon-model.net/lemon</entry>
+          </row>
+
+          <row>
+            <entry>LexInfo 2.0</entry>
+
+            <entry>lexinfo</entry>
+
+            <entry>http://www.lexinfo.net/ontology/2.0/lexinfo#</entry>
           </row>
 
           <row>
@@ -150,6 +158,14 @@
             <entry>label</entry>
 
             <entry>http://publications.europa.eu/resource/authority/label-type</entry>
+          </row>
+
+          <row>
+            <entry>Use context</entry>
+
+            <entry>context</entry>
+
+            <entry>http://publications.europa.eu/resource/authority/use-context</entry>
           </row>
         </tbody>
       </tgroup>

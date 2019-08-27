@@ -5,6 +5,23 @@
   <title>Context of use</title>
 
   <body>
-    <p/>
+    <p>The use case that this specification intends to enable is publishing
+    and exchange of all thesauri and controlled vocabularies managed by the
+    Publications Office of the European Union.</p>
+
+    <p>The basic use case involves the following actors:</p>
+
+    <ul>
+      <li>EuroVoc team, in charge of the maintenance of EuroVoc thesaurus, and
+      the publication and dissemination of thesauri maintained by other EU
+      institutions.</li>
+
+      <li>MDR team, in charge of the maintenance and dissemination of the
+      authority tables shared among EU institutions.</li>
+
+      <li>Other teams of the EU institutions who wish to (re-)use the
+      disseminated classifications, taxonomies, thesauri and authority tables
+      as Linked Open Data.</li>
+    </ul>
   </body>
 </topic>

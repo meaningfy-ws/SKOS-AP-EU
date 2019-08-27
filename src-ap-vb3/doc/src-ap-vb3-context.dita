@@ -5,9 +5,9 @@
   <title>Context of use</title>
 
   <body>
-    <p>The use cases that this specification intends is to facilitate
-    authoring with VocBench3 of all thesauri and controlled vocabularies
-    managed by the Publications Office of the European Union.</p>
+    <p>The use case that this specification intends to enable is authoring
+    with VocBench3 of all thesauri and controlled vocabularies managed by the
+    Publications Office of the European Union.</p>
 
     <p>The basic use case involves the following actors:</p>
 

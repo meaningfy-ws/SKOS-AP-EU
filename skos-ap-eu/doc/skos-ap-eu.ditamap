@@ -36,7 +36,7 @@
 
   <keydef href="skos-ap-eu.dita#EA_Model15x33x36x02x00" keys="skos-ap-eu"/>
 
-  <keydef format="png" href="../skos-ap-eu.png" keys="uml-diagram"/>
+  <keydef format="png" href="skos-ap-eu.png" keys="uml-diagram"/>
 
   <topicref href="skos-ap-eu-introduction.dita#src-ap-vb3-introduction"/>
 
