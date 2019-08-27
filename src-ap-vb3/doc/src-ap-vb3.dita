@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "technicalContent/dtd/reference.dtd">
-<reference id="EA_Model16x56x26x02x00">
+<reference id="EA_Model12x08x15x02x00">
 	<title>src-ap-vb3.xmi</title>
 	<refbody>
 		<section>
-			<title>euvoc:XlNotation</title>A notation is a string of characters used to uniquely identify a concept within a specified context.
-Like the skosxl:Label class reifies SKOS label statements, XlNotation reifies SKOS notation statements. This class permits, if needed, to maintain the historical view of the values and add additional provenance descriptions. 
-<table frame="all" colsep="1" rowsep="1">
+			<title>euvoc:XlNotation</title>
+			<p>A notation is a string of characters used to uniquely identify a concept within a specified context.</p>
+			<p>Like the skosxl:Label class reifies SKOS label statements, XlNotation reifies SKOS notation statements. This class permits, if needed, to maintain the historical view of the values and add additional provenance descriptions. </p>
+			<table frame="all" colsep="1" rowsep="1" scale="70">
 				<title>Properties</title>
 				<tgroup cols="4" colsep="1" rowsep="1" outputclass="FormatA">
 					<colspec colnum="1" colname="1" colwidth="22*"/>
@@ -71,16 +72,19 @@ Like the skosxl:Label class reifies SKOS label statements, XlNotation reifies SK
 							</entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">dct:type</entry>
 							<entry colname="2">skos:Concept</entry>
 							<entry colname="3">1..1</entry>
 							<entry colname="4">Specify the context where a specified notation is considered unique. </entry>
 						</row>
 					</tbody>
 				</tgroup>
-			</table></section>
+			</table>
+		</section>
 		<section>
-			<title>euvoc:XlNote</title>Like the skosxl:Label class reifies SKOS label statements, XlNote reifies SKOS note statements (i.e. skos:editorialNote, skos:example, skos:historyNote, skos:definition, skos:scopeNote and skos:changeNote). This class permits, if needed, to maintain the historical view of the values and add additional provenance descriptions. <table frame="all" colsep="1" rowsep="1">
+			<title>euvoc:XlNote</title>
+			<p>Like the skosxl:Label class reifies SKOS label statements, XlNote reifies SKOS note statements (i.e. skos:editorialNote, skos:example, skos:historyNote, skos:definition, skos:scopeNote and skos:changeNote). This class permits, if needed, to maintain the historical view of the values and add additional provenance descriptions. </p>
+			<table frame="all" colsep="1" rowsep="1" scale="70">
 				<title>Properties</title>
 				<tgroup cols="4" colsep="1" rowsep="1" outputclass="FormatA">
 					<colspec colnum="1" colname="1" colwidth="22*"/>
@@ -122,6 +126,15 @@ Like the skosxl:Label class reifies SKOS label statements, XlNotation reifies SK
 							</entry>
 						</row>
 						<row rowsep="1">
+							<entry colname="1">owl:deprecated</entry>
+							<entry colname="2">xsd:boolean</entry>
+							<entry colname="3">0..1</entry>
+							<entry colname="4">
+								<p>States whether the resource is current or deprecated. By deprecating a resource, it means that it should not be used in new documents.</p>
+								<p>Deprecation is a feature commonly used in versioning software to indicate that a particular feature is preserved for backward-compatibility purposes, but may be phased out in the future. </p>
+							</entry>
+						</row>
+						<row rowsep="1">
 							<entry colname="1">rdf:value</entry>
 							<entry colname="2">rdfs:Literal</entry>
 							<entry colname="3">1..1</entry>
@@ -131,14 +144,15 @@ Like the skosxl:Label class reifies SKOS label statements, XlNotation reifies SK
 						</row>
 					</tbody>
 				</tgroup>
-			</table></section>
+			</table>
+		</section>
 		<section>
-			<title>rdfs:Resource</title>All things described by RDF are called resources, and are instances of the class rdfs:Resource. This is the class of everything.</section>
+			<title>rdfs:Resource</title>
+			<p>All things described by RDF are called resources, and are instances of the class rdfs:Resource. This is the class of everything.</p>
+		</section>
 		<section>
-			<title>rdfs:Literal</title>The class rdfs:Literal is the class of literal values such as strings and integers. Property values such as textual strings are examples of RDF literals.</section>
-		<section>
-			<title>skos:Collectioon</title>
-			<table frame="all" colsep="1" rowsep="1">
+			<title>skos:Collection</title>
+			<table frame="all" colsep="1" rowsep="1" scale="70">
 				<title>Properties</title>
 				<tgroup cols="4" colsep="1" rowsep="1" outputclass="FormatA">
 					<colspec colnum="1" colname="1" colwidth="22*"/>
@@ -167,26 +181,26 @@ Like the skosxl:Label class reifies SKOS label statements, XlNotation reifies SK
 							<entry colname="4"/>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
-							<entry colname="2">skos:Collectioon</entry>
+							<entry colname="1">skos:member</entry>
+							<entry colname="2">skos:Collection</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4"/>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:member</entry>
 							<entry colname="2">skos:Concept</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4"/>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skosxl:prefLabel</entry>
 							<entry colname="2">skosxl:Label</entry>
 							<entry colname="3">1..*</entry>
 							<entry colname="4"/>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
-							<entry colname="2">skos:Collectioon</entry>
+							<entry colname="1">skos:member</entry>
+							<entry colname="2">skos:Collection</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4"/>
 						</row>
@@ -195,9 +209,11 @@ Like the skosxl:Label class reifies SKOS label statements, XlNotation reifies SK
 			</table>
 		</section>
 		<section>
-			<title>skos:Concept</title>A SKOS concept can be viewed as an idea or notion; a unit of thought. However, what constitutes a unit of thought is subjective, and this definition is meant to be suggestive, rather than restrictive.
-The notion of a SKOS concept is useful when describing the conceptual or intellectual structure of a knowledge organization system, and when referring to specific ideas or meanings established within a KOS.
-Note that, because SKOS is designed to be a vehicle for representing semi-formal KOS, such as thesauri and classification schemes, a certain amount of flexibility has been built in to the formal definition of this class.<table frame="all" colsep="1" rowsep="1">
+			<title>skos:Concept</title>
+			<p>A SKOS concept can be viewed as an idea or notion; a unit of thought. However, what constitutes a unit of thought is subjective, and this definition is meant to be suggestive, rather than restrictive.</p>
+			<p>The notion of a SKOS concept is useful when describing the conceptual or intellectual structure of a knowledge organization system, and when referring to specific ideas or meanings established within a KOS.</p>
+			<p>Note that, because SKOS is designed to be a vehicle for representing semi-formal KOS, such as thesauri and classification schemes, a certain amount of flexibility has been built in to the formal definition of this class.</p>
+			<table frame="all" colsep="1" rowsep="1" scale="70">
 				<title>Properties</title>
 				<tgroup cols="4" colsep="1" rowsep="1" outputclass="FormatA">
 					<colspec colnum="1" colname="1" colwidth="22*"/>
@@ -219,6 +235,22 @@ Note that, because SKOS is designed to be a vehicle for representing semi-formal
 							<entry colname="3">0..1</entry>
 							<entry colname="4">
 								<p>Date of creation of the resource.</p>
+							</entry>
+						</row>
+						<row rowsep="1">
+							<entry colname="1">dct:dateAccepted</entry>
+							<entry colname="2">xsd:date</entry>
+							<entry colname="3">0..1</entry>
+							<entry colname="4">
+								<p>Date of acceptance of the resource.</p>
+							</entry>
+						</row>
+						<row rowsep="1">
+							<entry colname="1">dct:dateSubmitted</entry>
+							<entry colname="2">xsd:date</entry>
+							<entry colname="3">0..1</entry>
+							<entry colname="4">
+								<p>Date of submission of the resource.</p>
 							</entry>
 						</row>
 						<row rowsep="1">
@@ -271,37 +303,37 @@ Note that, because SKOS is designed to be a vehicle for representing semi-formal
 							</entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:inScheme</entry>
 							<entry colname="2">skos:ConceptScheme</entry>
 							<entry colname="3">1..*</entry>
 							<entry colname="4">A concept scheme in which the concept is included. A concept may be a member of more than one concept scheme.</entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:definition</entry>
 							<entry colname="2">euvoc:XlNote</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4">A statement or formal explanation of the meaning of a concept.</entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:broadMatch</entry>
 							<entry colname="2">skos:Concept</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4"/>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:historyNote</entry>
 							<entry colname="2">euvoc:XlNote</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4">A note about the past state/use/meaning of a concept.</entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:narrowMatch</entry>
 							<entry colname="2">skos:Concept</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4"/>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:broader</entry>
 							<entry colname="2">skos:Concept</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4">A concept that is more general in meaning.
@@ -309,105 +341,105 @@ Note that, because SKOS is designed to be a vehicle for representing semi-formal
 Broader concepts are typically rendered as parents in a concept hierarchy (tree).</entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:example</entry>
 							<entry colname="2">euvoc:XlNote</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4">An example of the use of a concept.</entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">dct:isReplacedBy</entry>
 							<entry colname="2">skos:Concept</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4">A related resource that supplants, displaces, or supersedes the described resource. 
 </entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:exactMatch</entry>
 							<entry colname="2">skos:Concept</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4"/>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:closeMatch</entry>
 							<entry colname="2">skos:Concept</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4"/>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:relatedMatch</entry>
 							<entry colname="2">skos:Concept</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4"/>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skosxl:altLabel</entry>
 							<entry colname="2">skosxl:Label</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4">An alternative lexical label for a resource. Acronyms, abbreviations, spelling variants, and irregular plural/singular forms may be included among the alternative labels for a concept. </entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skosxl:hiddenLabel</entry>
 							<entry colname="2">skosxl:Label</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4">A lexical label for a resource that should be hidden when generating visual displays of the resource, but should still be accessible to free text search operations. Mis-spelled terms are normally included as hidden labels.</entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:topConceptOf</entry>
 							<entry colname="2">skos:ConceptScheme</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4">The property skos:hasTopConcept is, by convention, used to link a concept scheme to the SKOS concept(s) which are topmost in the hierarchical relations for that scheme.</entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skosxl:prefLabel</entry>
 							<entry colname="2">skosxl:Label</entry>
 							<entry colname="3">1..*</entry>
 							<entry colname="4">The preferred lexical label for a resource, in a given language. No two concepts in the same concept scheme may have the same preferred label in a given language. 
 </entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:notation</entry>
 							<entry colname="2">euvoc:XlNotation</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4">A notation is a string of characters such as "T58.5" or "303.4833" used to uniquely identify a concept within the scope of a given concept scheme or within a specified context.</entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:related</entry>
 							<entry colname="2">skos:Concept</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4">A concept with which there is an associative semantic relationship.</entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:changeNote</entry>
 							<entry colname="2">euvoc:XlNote</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4">A note about a modification to a concept.</entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:editorialNote</entry>
 							<entry colname="2">euvoc:XlNote</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4">A note for an editor, translator or maintainer of the vocabulary.</entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:scopeNote</entry>
 							<entry colname="2">euvoc:XlNote</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4">A note that helps to clarify the meaning of a concept.</entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:broadMatch</entry>
 							<entry colname="2">skos:Concept</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4"/>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:narrowMatch</entry>
 							<entry colname="2">skos:Concept</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4"/>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:broader</entry>
 							<entry colname="2">skos:Concept</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4">A concept that is more general in meaning.
@@ -415,42 +447,45 @@ Broader concepts are typically rendered as parents in a concept hierarchy (tree)
 Broader concepts are typically rendered as parents in a concept hierarchy (tree).</entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">dct:isReplacedBy</entry>
 							<entry colname="2">skos:Concept</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4">A related resource that supplants, displaces, or supersedes the described resource. 
 </entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:exactMatch</entry>
 							<entry colname="2">skos:Concept</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4"/>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:closeMatch</entry>
 							<entry colname="2">skos:Concept</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4"/>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:relatedMatch</entry>
 							<entry colname="2">skos:Concept</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4"/>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skos:related</entry>
 							<entry colname="2">skos:Concept</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4">A concept with which there is an associative semantic relationship.</entry>
 						</row>
 					</tbody>
 				</tgroup>
-			</table></section>
+			</table>
+		</section>
 		<section>
-			<title>skos:ConceptScheme</title>A SKOS concept scheme can be viewed as an aggregation of one or more SKOS concepts. Semantic relationships (links) between those concepts may also be viewed as part of a concept scheme. This definition is, however, meant to be suggestive rather than restrictive, and there is some flexibility in the formal data model stated below.
-Thesauri, classification schemes, subject heading lists, taxonomies, 'folksonomies', and other types of controlled vocabulary are all examples of concept schemes. Concept schemes are also embedded in glossaries and terminologies. <table frame="all" colsep="1" rowsep="1">
+			<title>skos:ConceptScheme</title>
+			<p>A SKOS concept scheme can be viewed as an aggregation of one or more SKOS concepts. Semantic relationships (links) between those concepts may also be viewed as part of a concept scheme. This definition is, however, meant to be suggestive rather than restrictive, and there is some flexibility in the formal data model stated below.</p>
+			<p>Thesauri, classification schemes, subject heading lists, taxonomies, 'folksonomies', and other types of controlled vocabulary are all examples of concept schemes. Concept schemes are also embedded in glossaries and terminologies. </p>
+			<table frame="all" colsep="1" rowsep="1" scale="70">
 				<title>Properties</title>
 				<tgroup cols="4" colsep="1" rowsep="1" outputclass="FormatA">
 					<colspec colnum="1" colname="1" colwidth="22*"/>
@@ -500,38 +535,39 @@ Thesauri, classification schemes, subject heading lists, taxonomies, 'folksonomi
 							</entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">euvoc:domain</entry>
 							<entry colname="2">skos:Concept</entry>
 							<entry colname="3">0..1</entry>
 							<entry colname="4">Indicates the subject of the controlled vocabulary. 
 This property has a similar function as the dct:subject and dcat:theme. </entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">dct:isPartOf</entry>
 							<entry colname="2">skos:ConceptScheme</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4">A related resource in which the described resource is physically or logically included.</entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">skosxl:prefLabel</entry>
 							<entry colname="2">skosxl:Label</entry>
 							<entry colname="3">1..*</entry>
 							<entry colname="4">The preferred lexical label for a resource, in a given language. No two concepts in the same concept scheme may have the same preferred label in a given language. </entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">dct:isPartOf</entry>
 							<entry colname="2">skos:ConceptScheme</entry>
 							<entry colname="3">0..*</entry>
 							<entry colname="4">A related resource in which the described resource is physically or logically included.</entry>
 						</row>
 					</tbody>
 				</tgroup>
-			</table></section>
+			</table>
+		</section>
 		<section>
-			<title>skosxl:Label</title>The class skosxl:Label is a special class of lexical entities.
-An instance of the class skosxl:Label is a resource and may be named with a URI.
-An instance of the class skosxl:Label has a single literal form. This literal form is an RDF plain literal (which is a string of UNICODE characters and an optional language tag [<p><xref scope="external" href="https://www.w3.org/TR/rdf-concepts/">RDF-CONCEPTS</xref></p>]). The property skosxl:literalForm is used to give the literal form of an skosxl:Label.
-If two instances of the class skosxl:Label have the same literal form, they are not necessarily the same resource.<table frame="all" colsep="1" rowsep="1">
+			<title>skosxl:Label</title>
+			<p>The class skosxl:Label is a special class of lexical entities. An instance of the class skosxl:Label is a resource and may be named with a URI.</p>
+			<p>An instance of the class skosxl:Label has a single literal form. This literal form is an RDF plain literal (which is a string of UNICODE characters and an optional language tag [<xref scope="external" href="https://www.w3.org/TR/rdf-concepts/"><foreign otherprops="#0000ff"><u>RDF-CONCEPTS</u></foreign></xref>]). The property skosxl:literalForm is used to give the literal form of an skosxl:Label. If two instances of the class skosxl:Label have the same literal form, they are not necessarily the same resource.</p>
+			<table frame="all" colsep="1" rowsep="1" scale="70">
 				<title>Properties</title>
 				<tgroup cols="4" colsep="1" rowsep="1" outputclass="FormatA">
 					<colspec colnum="1" colname="1" colwidth="22*"/>
@@ -580,6 +616,38 @@ If two instances of the class skosxl:Label have the same literal form, they are 
 							</entry>
 						</row>
 						<row rowsep="1">
+							<entry colname="1">lexinfo:animacy</entry>
+							<entry colname="2">rdfs:Resource</entry>
+							<entry colname="3">1..1</entry>
+							<entry colname="4">
+								<p>The characteristic of a word indicating that in a given discourse community, its referent is considered to be alive or to possess a quality of volition or consciousness.</p>
+							</entry>
+						</row>
+						<row rowsep="1">
+							<entry colname="1">lexinfo:formNumberVariant</entry>
+							<entry colname="2">rdfs:Resource</entry>
+							<entry colname="3">1..1</entry>
+							<entry colname="4">
+								<p>A grammatical category that indicates grammatical variation in numerals. This feature  is used in Maltese language.</p>
+							</entry>
+						</row>
+						<row rowsep="1">
+							<entry colname="1">lexinfo:gender</entry>
+							<entry colname="2">rdfs:Resource</entry>
+							<entry colname="3">0..1</entry>
+							<entry colname="4">
+								<p>A grammatical category that indicates grammatical relationships between words in sentences.</p>
+							</entry>
+						</row>
+						<row rowsep="1">
+							<entry colname="1">lexinfo:number</entry>
+							<entry colname="2">rdfs:Resource</entry>
+							<entry colname="3">0..1</entry>
+							<entry colname="4">
+								<p>Grammatical category for the variation in form of nouns, pronouns, and any words agreeing with them, depending on how many persons or things are referred to.</p>
+							</entry>
+						</row>
+						<row rowsep="1">
 							<entry colname="1">owl:deprecated</entry>
 							<entry colname="2">xsd:boolean</entry>
 							<entry colname="3">0..1</entry>
@@ -605,7 +673,7 @@ If two instances of the class skosxl:Label have the same literal form, they are 
 							</entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1"/>
+							<entry colname="1">dct:type</entry>
 							<entry colname="2">skos:Concept</entry>
 							<entry colname="3">0..1</entry>
 							<entry colname="4">Specify the context where a specified notation is considered unique. 
@@ -613,17 +681,26 @@ If two instances of the class skosxl:Label have the same literal form, they are 
 						</row>
 					</tbody>
 				</tgroup>
-			</table></section>
+			</table>
+		</section>
 		<section>
-			<title>xsd:boolean</title>The boolean data type is used to specify a true or false value.</section>
+			<title>rdfs:Literal</title>
+			<p>The class rdfs:Literal is the class of literal values such as strings and integers. Property values such as textual strings are examples of RDF literals.</p>
+		</section>
 		<section>
-			<title>xsd:date</title>The date data type is used to specify a date.
+			<title>xsd:boolean</title>
+			<p>The boolean data type is used to specify a true or false value.</p>
+		</section>
+		<section>
+			<title>xsd:date</title>
+			<p>The date data type is used to specify a date.
 The date is specified in the following form "YYYY-MM-DD" where:
-<ul>
+</p><ul>
  <li>YYYY indicates the year</li>
  <li>MM indicates the month</li>
  <li>DD indicates the day</li>
-</ul>
-Note: All components are required!</section>
+</ul><p>
+Note: All components are required!</p>
+		</section>
 	</refbody>
 </reference>

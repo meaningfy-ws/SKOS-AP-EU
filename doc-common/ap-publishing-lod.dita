@@ -2,7 +2,7 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
 "topic.dtd">
 <topic id="ap-publishing-lod">
-  <title>Publishing Linked Data</title>
+  <title>Publishing linked data</title>
 
   <body>
     <p>This Application Profile is intended for use in a <term>Linked
@@ -23,6 +23,6 @@
     Joinup. 10 Rules for Persistent URIs. <xref format="html"
     href="https://joinup.ec.europa.eu/community/semic/document/10-rules-persistent-uris"
     scope="external">https://joinup.ec.europa.eu/community/semic/document/10-rules-persistent-uris</xref></fn>
-    . </p>
+    .</p>
   </body>
 </topic>

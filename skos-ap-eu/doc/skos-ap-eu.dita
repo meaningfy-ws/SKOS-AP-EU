@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "technicalContent/dtd/reference.dtd">
-<reference id="EA_Model15x33x36x02x00">
+<reference id="EA_Model12x06x15x02x00">
 	<title>skos-ap-eu.xmi</title>
 	<refbody>
 		<section>
@@ -55,20 +55,20 @@
 							</entry>
 						</row>
 						<row rowsep="1">
+							<entry colname="1">euvoc:xlCodification</entry>
+							<entry colname="2">rdfs:Literal</entry>
+							<entry colname="3">1..1</entry>
+							<entry colname="4">
+								<p>The literal form of the notation. </p>
+							</entry>
+						</row>
+						<row rowsep="1">
 							<entry colname="1">owl:deprecated</entry>
 							<entry colname="2">xsd:boolean</entry>
 							<entry colname="3">0..1</entry>
 							<entry colname="4">
 								<p>States whether the resource is current or deprecated. By deprecating a resource, it means that it should not be used in new documents.</p>
 								<p>Deprecation is a feature commonly used in versioning software to indicate that a particular feature is preserved for backward-compatibility purposes, but may be phased out in the future. </p>
-							</entry>
-						</row>
-						<row rowsep="1">
-							<entry colname="1">rdf:value</entry>
-							<entry colname="2">rdfs:Literal</entry>
-							<entry colname="3">1..1</entry>
-							<entry colname="4">
-								<p>The literal form of the notation. </p>
 							</entry>
 						</row>
 						<row rowsep="1">
@@ -126,7 +126,7 @@
 							</entry>
 						</row>
 						<row rowsep="1">
-							<entry colname="1">rdf:value</entry>
+							<entry colname="1">euvoc:xlNote</entry>
 							<entry colname="2">rdfs:Literal</entry>
 							<entry colname="3">1..1</entry>
 							<entry colname="4">
@@ -174,6 +174,12 @@
 							<entry colname="4">
 								<p>Date of modification of the resource.</p>
 							</entry>
+						</row>
+						<row rowsep="1">
+							<entry colname="1">skos:prefLabel</entry>
+							<entry colname="2">rdfs:Literal</entry>
+							<entry colname="3">1..1</entry>
+							<entry colname="4"/>
 						</row>
 						<row rowsep="1">
 							<entry colname="1">skos:member</entry>
