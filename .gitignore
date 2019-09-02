@@ -109,3 +109,5 @@ venv.bak/
 *.ldb
 *.dita~
 *.ditamap~
+temp/
+out/
