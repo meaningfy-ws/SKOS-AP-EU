@@ -21,10 +21,9 @@
     </critdates>
 
     <prodinfo>
-      <prodname>SRC-AP-VB3</prodname>
-
+      <prodname>SKOS-AP-EU</prodname>
       <vrmlist>
-        <vrm version="Version 1.0"/>
+        <vrm version="Version 2.0"/>
       </vrmlist>
     </prodinfo>
   </topicmeta>
@@ -38,7 +37,7 @@
   <keydef href="../../doc-common/ap-controlled-vocabulary-requirements.dita#ap-controlled-vocabulary-requirements"
           keys="cv-req"/>
 
-  <keydef href="skos-ap-eu.dita#EA_Model15x33x36x02x00" keys="skos-ap-eu"/>
+  <keydef href="skos-ap-eu.dita" keys="skos-ap-eu"/>
 
   <keydef format="png" href="skos-ap-eu.png" keys="uml-diagram"/>
 
@@ -52,8 +51,8 @@
 
   <topicref href="../../doc-common/ap-graphical-representation.dita#ap-graphical-representation"/>
 
-  <topicref href="skos-ap-eu.dita#EA_Model15x33x36x02x00" locktitle="yes"
-            navtitle="SKOS-AP-EU application profile specification"/>
+  <topicref href="skos-ap-eu.dita" locktitle="yes"
+    navtitle="SKOS-AP-EU application profile specification"/>
 
   <topicref href="../../doc-common/ap-skos-versioning.dita#ap-skos-versioning"/>
 

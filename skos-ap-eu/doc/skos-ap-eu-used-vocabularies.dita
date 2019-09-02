@@ -9,107 +9,70 @@
     existing specifications. Classes and properties specified in the next
     sections have been taken from the following namespaces.</p>
 
-    <table>
+    <table colsep="1" rowsep="1" frame="all">
       <title>List of ontologies and their namespace definitions</title>
-
       <tgroup cols="3">
         <thead>
           <row>
             <entry>Ontology</entry>
-
             <entry>Prefix</entry>
-
             <entry>URI</entry>
           </row>
         </thead>
-
         <tbody>
           <row>
             <entry>Simple Knowledge Organization System</entry>
-
             <entry>skos</entry>
-
             <entry>http://www.w3.org/2004/02/skos/core#</entry>
           </row>
-
           <row>
-            <entry>Simple Knowledge Organization System eXtension for
-            Labels</entry>
-
+            <entry>Simple Knowledge Organization System eXtension for Labels</entry>
             <entry>skoxl</entry>
-
             <entry>http://www.w3.org/2008/05/skos-xl#</entry>
           </row>
-
           <row>
             <entry>DCMI Metadata Terms</entry>
-
             <entry>dct</entry>
-
             <entry>http://purl.org/dc/terms/</entry>
           </row>
-
           <row>
             <entry>Dublin Core Metadata Element Set</entry>
-
             <entry>dc</entry>
-
             <entry>http://purl.org/dc/elements/1.1/</entry>
           </row>
-
           <row>
             <entry>Publications Office Extensions Ontology</entry>
-
             <entry>euvoc</entry>
-
             <entry>http://publications.europa.eu/ontology/euvoc</entry>
           </row>
-
           <row>
             <entry>Lexicon Model for Ontologies</entry>
-
             <entry>lemon</entry>
-
             <entry>http://lemon-model.net/lemon</entry>
           </row>
-
           <row>
             <entry>LexInfo 2.0</entry>
-
             <entry>lexinfo</entry>
-
             <entry>http://www.lexinfo.net/ontology/2.0/lexinfo#</entry>
           </row>
-
           <row>
             <entry>OWL 2 Web Ontology Language</entry>
-
             <entry>owl</entry>
-
             <entry>http://www.w3.org/2002/07/owl#</entry>
           </row>
-
           <row>
             <entry>RDF Schema Vocabulary</entry>
-
             <entry>rdfs</entry>
-
             <entry>http://www.w3.org/2000/01/rdf-schema#</entry>
           </row>
-
           <row>
             <entry>Resource Description Framework</entry>
-
             <entry>rdf</entry>
-
             <entry>http://www.w3.org/1999/02/22-rdf-syntax-ns#</entry>
           </row>
-
           <row>
             <entry>XML Schema Definition</entry>
-
             <entry>xsd</entry>
-
             <entry>http://www.w3.org/2001/XMLSchema#</entry>
           </row>
         </tbody>
@@ -120,51 +83,35 @@
     value range on some properties. The values belong to the following
     namespaces.</p>
 
-    <table>
-      <title>List of controlled vocabularies and their namespace
-      definitions</title>
-
+    <table colsep="1" rowsep="1" frame="all">
+      <title>List of controlled vocabularies and their namespace definitions</title>
       <tgroup cols="3">
         <thead>
           <row>
             <entry>Vocabulary name</entry>
-
             <entry>Prefix</entry>
-
             <entry>URI</entry>
           </row>
         </thead>
-
         <tbody>
           <row>
             <entry>EuroVoc domains</entry>
-
             <entry>domain</entry>
-
             <entry>http://eurovoc.europa.eu/domain/</entry>
           </row>
-
           <row>
             <entry>Notation type</entry>
-
             <entry>notation</entry>
-
             <entry>http://publications.europa.eu/resource/authority/notation-type</entry>
           </row>
-
           <row>
             <entry>Label type</entry>
-
             <entry>label</entry>
-
             <entry>http://publications.europa.eu/resource/authority/label-type</entry>
           </row>
-
           <row>
             <entry>Use context</entry>
-
             <entry>context</entry>
-
             <entry>http://publications.europa.eu/resource/authority/use-context</entry>
           </row>
         </tbody>

@@ -5,19 +5,17 @@
   <title>On concept evolution and versioning</title>
 
   <body>
-    <p>SKOS is a common data model for sharing and linking knowledge
-    organization systems via the Web. It describes means to define concepts
-    and organise them in concept schemes but omits to specify anything about
-    how such organisation should evolve over time. A series of attempts was
-    done to address this issue and a list of references is available on W3C
-    wiki <fn> SKOS/Issues/ConceptEvolution. <xref format="html"
-    href="https://www.w3.org/2001/sw/wiki/SKOS/Issues/ConceptEvolution"
-    scope="external">https://www.w3.org/2001/sw/wiki/SKOS/Issues/ConceptEvolution</xref></fn></p>
-
-    <p>. This section reflects the result of discussions in the MDR team of
-    the Publications Office and addresses a few issues related to evolution of
-    digital assets based on SKOS model. The solutions described below have
-    informative purpose and are not part of the application profile.</p>
+    <p>SKOS is a common data model for sharing and linking knowledge organization systems via the
+      Web. It describes means to define concepts and organise them in concept schemes but omits to
+      specify anything about how such organisation should evolve over time. A series of attempts was
+      done to address this issue and a list of references is available on W3C wiki <fn>
+        SKOS/Issues/ConceptEvolution. <xref format="html"
+          href="https://www.w3.org/2001/sw/wiki/SKOS/Issues/ConceptEvolution" scope="external"
+          >https://www.w3.org/2001/sw/wiki/SKOS/Issues/ConceptEvolution</xref></fn>. </p>
+    <p>This section reflects the result of discussions in the MDR team of the Publications Office
+      and addresses a few issues related to evolution of digital assets based on SKOS model. The
+      solutions described below have informative purpose and are not part of the application
+      profile.</p>
 
     <section><title>Preliminary questions</title><p>Discussing the temporal
     evolution of SKOS assets is not a trivial task. It can be approached as a
@@ -49,10 +47,9 @@
     href="https://plato.stanford.edu/archives/sum2013/entries/peirce-semiotics/"
     scope="external">https://plato.stanford.edu/archives/sum2013/entries/peirce-semiotics/</xref>.</fn>
     standpoint and think about the evolution of signs, "external reality"
-    things and "mental" concepts.</p><p>In the course of Next are provided a
-    few competency questions aimed at clarifying the nature of the asset at
-    hand and thus getting one step closer in making a choice in the versioning
-    strategy that will be outlined later.</p><ul>
+    things and "mental" concepts.</p><p>Next are provided a few competency questions aimed at clarifying the nature of the asset at hand
+        and thus getting one step closer in making a choice in the versioning strategy that will be
+        outlined later.</p><ul>
         <li>What is the level of abstraction of managed concepts? Do the
         concepts represent entities/individuals or more abstract classes of
         things?</li>
