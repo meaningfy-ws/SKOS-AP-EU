@@ -48,8 +48,7 @@
 
   <topicref href="../../doc-common/ap-graphical-representation.dita#ap-graphical-representation"/>
 
-  <topicref href="src-ap-vb3.dita" locktitle="yes"
-            navtitle="SPC-AP-VB3 application profile specification"/>
+  <topicref href="src-ap-vb3.dita"/>
 
   <topicref href="../../doc-common/ap-skos-versioning.dita#ap-skos-versioning"/>
 

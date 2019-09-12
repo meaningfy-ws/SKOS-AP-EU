@@ -32,8 +32,8 @@
     indicative and not a semantic value. The "mandatory", "optional" and
     "recommended" stereotypes are normative and have the meaning defined in
     the <xref href="ap-terminology.dita#ap-terminology">terminology
-    section</xref> .</p>
-
+    section</xref>.</p>
+    
     <p>In curly brackets ({ }) are provided the value constraints on the
     property values. These constraints refer to controlled list of values that
     should meet <xref keyref="cv-req">a minimum set of

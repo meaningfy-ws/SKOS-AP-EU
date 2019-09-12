@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA 1.3 BookMap//EN" "bookmap/dtd/bookmap.dtd" [
+	<!-- Begin Document Specific Declarations -->
+	<!-- End Document Specific Declarations -->
+]>
+<bookmap id="SKOS-AP-EU" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+	<booktitle>
+		<mainbooktitle id="booktitle">SKOS-AP-EU</mainbooktitle>
+		<booktitlealt>An application profile for publishing SKOS-based metadata assets</booktitlealt>
+	</booktitle>
+	<bookmeta>
+		<author id="author1">Eugeniu Costetchi</author>
+		<author id="author2">Jean Delahousse</author>
+		<publisherinformation>
+			<organization id="organization">Publications Office of the European Union</organization>
+		</publisherinformation>
+		<critdates>
+			<created date="10/09/2019"/>
+			<revised modified="13/09/2019"/>
+			<revised modified="27/08/2019"/>
+		</critdates>
+		<prodinfo>
+			<prodname id="prodname">SKOS-AP-EU</prodname>
+			<vrmlist>
+				<vrm version="2.0"/>
+			</vrmlist>
+		</prodinfo>
+		<bookchangehistory>
+			<reviewed>
+				<person/>
+				<revisionid/>
+				<started>
+					<year>2019</year>
+				</started>
+				<completed>
+					<year>2019</year>
+				</completed>
+			</reviewed>
+			<approved>
+				<person/>
+				<revisionid/>
+				<started>
+					<year>2019</year>
+				</started>
+				<completed>
+					<year>2019</year>
+				</completed>
+			</approved>
+		</bookchangehistory>
+		<bookrights>
+			<copyrfirst>
+				<year>2019</year>
+			</copyrfirst>
+			<copyrlast>
+				<year>2019</year>
+			</copyrlast>
+			<bookowner>
+				<organization>Publications Office of the European Union</organization>
+			</bookowner>
+		</bookrights>
+	</bookmeta>
+	<frontmatter>
+		<keydef href="../../doc-common/ap-terminology.dita" keys="terminology" type="topic">
+			<topicmeta>
+				<navtitle>Terminology used</navtitle>
+			</topicmeta>
+		</keydef>
+		<keydef href="skos-ap-eu-used-vocabularies.dita" keys="vocabulary" type="topic">
+			<topicmeta>
+				<navtitle>Used vocabularies</navtitle>
+			</topicmeta>
+		</keydef>
+		<keydef href="../../doc-common/ap-controlled-vocabulary-requirements.dita" keys="cv-req" type="topic">
+			<topicmeta>
+				<navtitle>Requirements for controlled vocabularies</navtitle>
+			</topicmeta>
+		</keydef>
+		<keydef href="skos-ap-eu.dita" keys="skos-ap-eu.dita" type="reference">
+			<topicmeta>
+				<navtitle>Application profile</navtitle>
+			</topicmeta>
+		</keydef>
+		<keydef href="skos-ap-eu.png" keys="uml-diagram" format="png"/>
+		<booklists>
+			<toc keys="contents"/>
+		</booklists>
+	</frontmatter>
+	<chapter type="ditabase">
+		<topicref href="skos-ap-eu-introduction.dita" type="topic">
+			<topicmeta>
+				<navtitle>Introduction</navtitle>
+			</topicmeta>
+		</topicref>
+		<topicref href="skos-ap-eu-context.dita" type="topic">
+			<topicmeta>
+				<navtitle>Context of use</navtitle>
+			</topicmeta>
+		</topicref>
+		<topicref href="../../doc-common/ap-terminology.dita" keyref="terminology" keys="Terminology used" type="topic">
+			<topicmeta>
+				<navtitle>Terminology used</navtitle>
+			</topicmeta>
+		</topicref>
+		<topicref href="skos-ap-eu-used-vocabularies.dita" type="topic">
+			<topicmeta>
+				<navtitle>Used vocabularies</navtitle>
+			</topicmeta>
+		</topicref>
+		<topicref href="../../doc-common/ap-graphical-representation.dita" keys="Graphical representation" type="topic">
+			<topicmeta>
+				<navtitle>Graphical representation</navtitle>
+			</topicmeta>
+		</topicref>
+		<topicref navtitle="SKOS-AP-EU application profile specification" href="skos-ap-eu.dita" type="reference" locktitle="yes">
+			<topicmeta>
+				<navtitle>Application profile</navtitle>
+			</topicmeta>
+		</topicref>
+		<topicref href="../../doc-common/ap-skos-versioning.dita" type="topic">
+			<topicmeta>
+				<navtitle>On concept evolution and versioning</navtitle>
+			</topicmeta>
+		</topicref>
+		<topicref href="../../doc-common/ap-controlled-vocabulary-requirements.dita" type="topic">
+			<topicmeta>
+				<navtitle>Requirements for controlled vocabularies</navtitle>
+			</topicmeta>
+		</topicref>
+		<topicref href="../../doc-common/ap-conformance-statement.dita" type="topic">
+			<topicmeta>
+				<navtitle>Conformance statement</navtitle>
+			</topicmeta>
+		</topicref>
+		<topicref href="../../doc-common/ap-multilingualism.dita" type="topic">
+			<topicmeta>
+				<navtitle>Multilingual aspects</navtitle>
+			</topicmeta>
+		</topicref>
+		<topicref href="../../doc-common/ap-publishing-lod.dita" type="topic">
+			<topicmeta>
+				<navtitle>Publishing linked data</navtitle>
+			</topicmeta>
+		</topicref>
+	</chapter>
+	<backmatter>
+		<booklists>
+			<figurelist keys="figures"/>
+			<tablelist keys="tables"/>
+			<glossarylist keys="terms"/>
+		</booklists>
+	</backmatter>
+</bookmap>
