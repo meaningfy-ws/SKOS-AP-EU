@@ -22,6 +22,7 @@
 
     <prodinfo>
       <prodname>SKOS-AP-EU</prodname>
+
       <vrmlist>
         <vrm version="Version 2.0"/>
       </vrmlist>
@@ -51,8 +52,7 @@
 
   <topicref href="../../doc-common/ap-graphical-representation.dita#ap-graphical-representation"/>
 
-  <topicref href="skos-ap-eu.dita" locktitle="yes"
-    navtitle="SKOS-AP-EU application profile specification"/>
+  <topicref href="skos-ap-eu.dita"/>
 
   <topicref href="../../doc-common/ap-skos-versioning.dita#ap-skos-versioning"/>
 
