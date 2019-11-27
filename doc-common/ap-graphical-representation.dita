@@ -33,14 +33,14 @@
     "recommended" stereotypes are normative and have the meaning defined in
     the <xref href="ap-terminology.dita#ap-terminology">terminology
     section</xref>.</p>
-    
+
     <p>In curly brackets ({ }) are provided the value constraints on the
     property values. These constraints refer to controlled list of values that
     should meet <xref keyref="cv-req">a minimum set of
     requirements</xref>.</p>
 
     <fig id="graphical-representation">
-      <title>UML class diagram of SRC-AP-VB3 application profile</title>
+      <title>UML class diagram for the current application profile</title>
 
       <image align="center" keyref="uml-diagram" scalefit="yes"/>
     </fig>

@@ -18,13 +18,15 @@
       <revised modified="13/09/2019"/>
 
       <revised modified="27/08/2019"/>
+
+      <revised modified="27/11/2019"/>
     </critdates>
 
     <prodinfo>
       <prodname>SKOS-AP-EU</prodname>
 
       <vrmlist>
-        <vrm version="Version 2.0"/>
+        <vrm version="Version 1.1"/>
       </vrmlist>
     </prodinfo>
   </topicmeta>
