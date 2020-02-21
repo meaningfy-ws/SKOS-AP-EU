@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+"topic.dtd">
+<topic id="src-ap-vb3-controlled-vocabularies">
+  <title>Used controlled vocabularies</title>
+
+  <body>
+    <p>This section provides the list of controlled vocabularies that should
+    be used as values of the corresponding properties. </p>
+
+    <p/>
+
+    <simpletable>
+      <sthead>
+        <stentry>Vocabulary name</stentry>
+
+        <stentry>Vocabulary URI</stentry>
+
+        <stentry/>
+      </sthead>
+
+      <strow>
+        <stentry/>
+
+        <stentry/>
+
+        <stentry/>
+      </strow>
+
+      <strow>
+        <stentry/>
+
+        <stentry/>
+
+        <stentry/>
+      </strow>
+
+      <strow>
+        <stentry/>
+
+        <stentry/>
+
+        <stentry/>
+      </strow>
+
+      <strow>
+        <stentry/>
+
+        <stentry/>
+
+        <stentry/>
+      </strow>
+    </simpletable>
+  </body>
+</topic>

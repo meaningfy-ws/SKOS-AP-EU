@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"map.dtd">
+<map>
+  <title>SRC-AP-VB3: an application profile for metadata assets maintained in
+  VocBench3</title>
+
+  <topicmeta>
+    <author>Eugeniu Costetchi</author>
+
+    <publisher>Publications Office of the European Union</publisher>
+
+    <critdates>
+      <created date="10/09/2019"/>
+
+      <revised modified="13/09/2019"/>
+    </critdates>
+
+    <prodinfo>
+      <prodname>SRC-AP-VB3-ESTAT</prodname>
+
+      <vrmlist>
+        <vrm version="Version 1.0"/>
+      </vrmlist>
+    </prodinfo>
+  </topicmeta>
+
+  <keydef href="../../doc-common/ap-terminology.dita#ap-terminology"
+          keys="terminology"/>
+
+  <keydef href="src-ap-vb3-used-vocabularies.dita#src-ap-vb3-used-vocabularies"
+          keys="vocabulary"/>
+
+  <keydef href="../../doc-common/ap-controlled-vocabulary-requirements.dita#ap-controlled-vocabulary-requirements"
+          keys="cv-req"/>
+
+  <keydef href="src-ap-vb3-estat.dita" keys="src-ap-vb3"/>
+
+  <keydef format="png" href="src-ap-vb3-estat.png" keys="uml-diagram"/>
+
+  <topicref href="src-ap-vb3-estat-introduction.dita#src-ap-vb3-introduction"/>
+
+  <topicref href="src-ap-vb3-estat-context.dita#src-ap-vb3-context"/>
+
+  <topicref href="../../doc-common/ap-terminology.dita#ap-terminology"/>
+
+  <topicref href="src-ap-vb3-used-vocabularies.dita#src-ap-vb3-used-vocabularies"/>
+
+  <topicref href="../../doc-common/ap-graphical-representation.dita#ap-graphical-representation"/>
+
+  <topicref href="src-ap-vb3-estat.dita"/>
+
+  <topicref href="../../doc-common/ap-skos-versioning.dita#ap-skos-versioning"/>
+
+  <topicref href="../../doc-common/ap-controlled-vocabulary-requirements.dita#ap-controlled-vocabulary-requirements"/>
+
+  <topicref href="../../doc-common/ap-conformance-statement.dita#ap-comformance-statement"/>
+
+  <topicref href="../../doc-common/ap-multilingualism.dita#ap-multilingualism"/>
+
+  <topicref href="../../doc-common/ap-publishing-lod.dita#ap-publishing-lod"/>
+</map>
